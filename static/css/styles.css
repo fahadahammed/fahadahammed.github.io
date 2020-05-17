@@ -257,21 +257,31 @@ div#post_body {
     color: darkgray;
 }
 
-li a {
+div.widget-body a {
     text-decoration: none;
-    color: saddlebrown;
+    color: #135771c7;
 }
 
 .widget div ul li {
     list-style-type: square;
 }
 
-div#post_list ul li {
-    color: blueviolet;
-    list-style: upper-latin;
-}
-
 div#post_list {
     font-size: larger;
     font-style: oblique;
+}
+
+div#post_list ul li {
+    color: #553c6d;
+    list-style: upper-latin;
+    background-color: #ebdef3;
+    padding: 1%;
+    margin-bottom: inherit;
+    border-radius: 2px;
+}
+
+div#post_list ul li a {
+    text-decoration: none;
+    color: #96154b;
+    font-weight: bolder;
 }
