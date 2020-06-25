@@ -10,10 +10,10 @@ body {
     font-family: 'Cabin', sans-serif;
     background: linear-gradient(
         -45deg, 
-        rgba(171, 100, 206, 0.616), 
-        rgba(163, 98, 238, 0.37), 
+        rgba(236, 147, 166, 0.281), 
+        rgba(163, 98, 238, 0.11), 
         rgba(73, 224, 141, 0.82), 
-        rgba(245, 239, 248, 0.85)
+        rgba(171, 190, 101, 0.404)
         );
     background-size: 400% 400%;
     -webkit-animation: Gradient 15s ease infinite;
@@ -87,8 +87,13 @@ nav {
 #fahad {
     max-width: 100%;
     border-radius: 2%;
-    box-shadow: -5px 5px 5px #94c0f3d1;
+    box-shadow: 5px 5px 5px #81ace6da;
 }
+
+#fahad:hover {
+    transform: rotate(-5deg);
+}
+
 
 .resume-menu {
     padding: 1%;
@@ -175,3 +180,4 @@ nav {
 .card img {
     max-width: 100%;
 }
+

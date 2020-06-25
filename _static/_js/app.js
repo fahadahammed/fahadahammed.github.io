@@ -1,4 +1,8 @@
-let menulinks = [
+// C: Fahad Ahammed
+// D: 2020-06-25_10-17
+
+
+var menulinks = [
     "#about", "#resume", "#photos", "#contact",
 ];
 
@@ -11,7 +15,6 @@ function showsection(sectionname) {
     _.forEach(menulinks, function(value) {
         hidesection(value);
       });
-    console.log("Showing section: ", sectionname)
     $(sectionname).show(1000);
 }
 
@@ -19,21 +22,6 @@ function showsection(sectionname) {
 $('.mymenu').click(function (e) {
     let thelink = e.target.hash;
     showsection(thelink);
-});
-
-
-// Shorthand for $( document ).ready()
-$(function () {
-    console.log("ready!");
-    hidesection("#resume");
-    hidesection("#photos");
-    hidesection("#contact");
-    let wl = window.location;
-    let thehash = wl.hash;
-    if (thehash === "") {
-        thehash = "#about";
-    }
-    showsection(thehash);
 });
 
 
@@ -76,4 +64,19 @@ $("#rsm-newtools").click(function () {
 $("#rsm-conadd").click(function () {
     let fp = $(`#${this.id}`.replace("rsm-", ""));
     fp.attr("tabindex", -1).focus();
+});
+
+
+// Shorthand for $( document ).ready()
+$(function () {
+    console.log("ready!");
+    hidesection("#resume");
+    hidesection("#photos");
+    hidesection("#contact");
+    let wl = window.location;
+    let thehash = wl.hash;
+    if (thehash === "") {
+        thehash = "#about";
+    }
+    showsection(thehash);
 });
