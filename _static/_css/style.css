@@ -10,9 +10,9 @@ body {
     font-family: 'Cabin', sans-serif;
     background: linear-gradient(
         -45deg, 
-        rgba(236, 147, 166, 0.281), 
-        rgba(163, 98, 238, 0.11), 
-        rgba(73, 224, 141, 0.82), 
+        rgba(236, 147, 166, 0.281),
+        rgba(163, 98, 238, 0.11),
+        rgba(73, 224, 141, 0.82),
         rgba(171, 190, 101, 0.404)
         );
     background-size: 400% 400%;
