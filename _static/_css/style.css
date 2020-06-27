@@ -147,6 +147,65 @@ footer {
     padding: 2%;
 }
 
+#post {
+    background-color: ghostwhite;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+#post_extra_info {
+    border-bottom-style: groove;
+    border-bottom-color: aquamarine;
+    background-color: #eedcf542;
+    padding: 2%;
+}
+
+#post_body {
+    padding: 2%;
+    background-color: whitesmoke;
+    font-size: large;
+}
+
+pre, code {
+    font-family: 'Fira Code', monospace;
+}
+
+#post_list {
+    padding: 2%;
+    margin-top: 2%;
+    background-color: ghostwhite;
+    font-size: larger;
+    font-style: oblique;
+}
+
+#post_list ul li {
+    color: #553c6d;
+    list-style: upper-latin;
+    background-color: #88d28d2e;
+    padding: 1%;
+    margin-bottom: inherit;
+    border-radius: 2px;
+}
+
+#post_list ul li:hover {
+    box-shadow: 5px 5px 5px rgba(2, 185, 185, 0.5);
+    font-weight: bolder;
+    color: rgba(113, 31, 191, 0.92);
+}
+
+#post_list ul li a {
+    text-decoration: none;
+    color: rgba(128, 17, 168, 0.92);
+    font-weight: bold;
+}
+
+#post_list ul li a:hover {
+    text-decoration: none;
+    color: rgba(152, 42, 208, 0.95);
+}
+
+
+
 
 .images {
     background-color: #ffffffd9;
