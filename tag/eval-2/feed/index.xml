@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>eval() &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/eval-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 12 Jun 2021 08:17:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>eval() &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Other side of Python eval() function</title>
+		<link>/other-side-of-python-eval-function/</link>
+					<comments>/other-side-of-python-eval-function/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2020 16:49:32 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[eval]]></category>
+		<category><![CDATA[eval()]]></category>
+		<category><![CDATA[python3]]></category>
+		<guid isPermaLink="false">/?p=5172</guid>
+
+					<description><![CDATA[The built-in function &#8220;eval()&#8221; of python is useful in many cases. But I am gonna talk about it&#8217;s negative one. Let, you have a function that take arguments from user. If you do eval() on that input, it might create a havoc. As an example &#8211; Running above code where last pin is a string &#8230; <a href="/other-side-of-python-eval-function/" class="more-link">Continue reading <span class="screen-reader-text">Other side of Python eval() function</span></a>]]></description>
+		
+					<wfw:commentRss>/other-side-of-python-eval-function/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5172</post-id>	</item>
+		<item>
+		<title>What does eval() do in Python?</title>
+		<link>/what-does-eval-do-in-python/</link>
+					<comments>/what-does-eval-do-in-python/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2020 10:28:10 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[eval]]></category>
+		<category><![CDATA[eval()]]></category>
+		<category><![CDATA[python3]]></category>
+		<guid isPermaLink="false">/?p=5168</guid>
+
+					<description><![CDATA[I have always loved the fact that The Python interpreter has a number of functions and types built into it. I am going to explore &#8220;eval()&#8221; in this article. Syntax: eval(expression[, globals[, locals]])oreval(expr, globals=None, locals=None) So, mainly eval need string as its argument in expression. globals&#160;(optional) Global namespace to use while executing the source. It must be &#8230; <a href="/what-does-eval-do-in-python/" class="more-link">Continue reading <span class="screen-reader-text">What does eval() do in Python?</span></a>]]></description>
+		
+					<wfw:commentRss>/what-does-eval-do-in-python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5168</post-id>	</item>
+	</channel>
+</rss>

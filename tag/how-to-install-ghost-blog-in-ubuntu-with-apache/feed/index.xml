@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>How to install ghost blog in ubuntu with apache &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/how-to-install-ghost-blog-in-ubuntu-with-apache/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Mon, 24 Feb 2014 03:35:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>How to install ghost blog in ubuntu with apache &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Easy installation of Ghost Blog</title>
+		<link>/easy-installation-of-ghost-blog/</link>
+					<comments>/easy-installation-of-ghost-blog/#comments</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[How to install ghost blog in ubuntu with apache]]></category>
+		<category><![CDATA[init script of ghost blog]]></category>
+		<category><![CDATA[Install ghost blog in lighttpd server]]></category>
+		<category><![CDATA[Install ghost with apache]]></category>
+		<category><![CDATA[Use ghost blog with mysql database]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1215</guid>
+
+					<description><![CDATA[&#8220;Ghost Blog&#8221; is a blogging platform. Just blog. If you are into blogging and sharing your thoughts and nothing else, then you will definitely looking for this one. Very lightweight and super stylish with simplicity look. It is a platform where you will be motivated to write. But it is tricky to install. I will &#8230; <a href="/easy-installation-of-ghost-blog/" class="more-link">Continue reading <span class="screen-reader-text">Easy installation of Ghost Blog</span></a>]]></description>
+		
+					<wfw:commentRss>/easy-installation-of-ghost-blog/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+	</channel>
+</rss>

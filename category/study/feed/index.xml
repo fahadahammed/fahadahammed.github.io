@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Study &#8211; Fahad Ahammed</title>
+	<atom:link href="/category/study/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Wed, 13 Jan 2021 17:44:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Study &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Again Fibonacci Series and Python</title>
+		<link>/again-fibonacci-series-and-python/</link>
+					<comments>/again-fibonacci-series-and-python/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Study]]></category>
+		<category><![CDATA[fibonacci series in python]]></category>
+		<category><![CDATA[golden ratio]]></category>
+		<category><![CDATA[lru_cache in fibonacci]]></category>
+		<category><![CDATA[Memoization]]></category>
+		<category><![CDATA[recursion in python]]></category>
+		<guid isPermaLink="false">/?p=5264</guid>
+
+					<description><![CDATA[I have already wrote a piece about generating Fibonacci series in BASH, here in my blog. But today I am gonna do some practice stuff with Python. We all I guess know about Fibonacci. It is connected to nature through the golden ratio and the spirals. It is a very interesting series to learn or &#8230; <a href="/again-fibonacci-series-and-python/" class="more-link">Continue reading <span class="screen-reader-text">Again Fibonacci Series and Python</span></a>]]></description>
+		
+					<wfw:commentRss>/again-fibonacci-series-and-python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5264</post-id>	</item>
+		<item>
+		<title>Prestressed Concrete Concepts and Classification</title>
+		<link>/prestressed-concrete-concepts-and-classification/</link>
+					<comments>/prestressed-concrete-concepts-and-classification/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<category><![CDATA[concepts of prestressed concrete]]></category>
+		<category><![CDATA[prestressed concrete]]></category>
+		<category><![CDATA[prestressed concrete and its concepts]]></category>
+		<category><![CDATA[prestressed concrete and its types]]></category>
+		<category><![CDATA[What do you mean by prestressed concrete?]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1772</guid>
+
+					<description><![CDATA[Prestressed Concrete: Prestressed concrete is a method for overcoming concrete&#8217;s natural weakness in tension. It can be used to produce beams, floors or bridges with a longer span than is practical with ordinary reinforced concrete. Concrete in which there have been introduced internal stresses of such magnitude and distribution that the stresses resulting from given &#8230; <a href="/prestressed-concrete-concepts-and-classification/" class="more-link">Continue reading <span class="screen-reader-text">Prestressed Concrete Concepts and Classification</span></a>]]></description>
+		
+					<wfw:commentRss>/prestressed-concrete-concepts-and-classification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1772</post-id>	</item>
+		<item>
+		<title>An overview of the Design and Construction activities of the Maghbazar-Mouchak Inter-change (Flyover) Project</title>
+		<link>/an-overview-of-the-design-and-construction-activities-of-the-maghbazar-mouchak-inter-change-flyover-project/</link>
+					<comments>/an-overview-of-the-design-and-construction-activities-of-the-maghbazar-mouchak-inter-change-flyover-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2014 16:18:56 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<category><![CDATA[Design and Construction activities of the Maghbazar-Mouchak Inter-change]]></category>
+		<category><![CDATA[Moghbazar-Mouchak Flyover project]]></category>
+		<category><![CDATA[Moghbazar-Mouchak Flyover project informations]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1719</guid>
+
+					<description><![CDATA[Introduction: Bangladesh has got its independence in 1971. 42 years have passed and its population is growing from 3.7642 billion to 7.0439 billion. We have improved our life style by urbanization and agricultural success with industrialization. But people of Bangladesh are city-centric. During last decades migration from rural to urban area has been coming more &#8230; <a href="/an-overview-of-the-design-and-construction-activities-of-the-maghbazar-mouchak-inter-change-flyover-project/" class="more-link">Continue reading <span class="screen-reader-text">An overview of the Design and Construction activities of the Maghbazar-Mouchak Inter-change (Flyover) Project</span></a>]]></description>
+		
+					<wfw:commentRss>/an-overview-of-the-design-and-construction-activities-of-the-maghbazar-mouchak-inter-change-flyover-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1719</post-id>	</item>
+		<item>
+		<title>Draw an Involute Curve From a Given Circle</title>
+		<link>/draw-an-involute-curve-from-a-given-circle/</link>
+					<comments>/draw-an-involute-curve-from-a-given-circle/#comments</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 18:09:29 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<category><![CDATA[Draw An Involute To A Circle Of Diameter 50 Mm]]></category>
+		<category><![CDATA[draw involute]]></category>
+		<category><![CDATA[engineering drawing involute]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1682</guid>
+
+					<description><![CDATA[Drawing an Involute Curve is a tough one to draw. I will give you tips to draw easily. Involute is very important in Gear industry. I am explaining the steps. 1. First draw a circle by given dimension of Diameter. 2. Make four part of that circle. 3. Draw a line from bottom point equal &#8230; <a href="/draw-an-involute-curve-from-a-given-circle/" class="more-link">Continue reading <span class="screen-reader-text">Draw an Involute Curve From a Given Circle</span></a>]]></description>
+		
+					<wfw:commentRss>/draw-an-involute-curve-from-a-given-circle/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1682</post-id>	</item>
+		<item>
+		<title>Shell Script to Generate Fibonacci Series Iteratively and Recursively</title>
+		<link>/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/</link>
+					<comments>/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[application of fibonacci series]]></category>
+		<category><![CDATA[fibonacci series in shell]]></category>
+		<category><![CDATA[scripts]]></category>
+		<category><![CDATA[shell script to generate fibonacci series or number]]></category>
+		<category><![CDATA[usefulness of fibonacci series or numbers]]></category>
+		<category><![CDATA[What are the application or use of Fibonacci numbers or series?]]></category>
+		<category><![CDATA[where does fibonacci series used ?]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1666</guid>
+
+					<description><![CDATA[By definition, the first two Fibonacci numbers are 0 and 1, and each subsequent number is the sum of the previous two. I will show you two shell script to generate Fibonacci series recursively and iteratively. Also you will get idea about the application of Fibonacci series/numbers. In mathematical terms, the sequence Fn of Fibonacci &#8230; <a href="/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/" class="more-link">Continue reading <span class="screen-reader-text">Shell Script to Generate Fibonacci Series Iteratively and Recursively</span></a>]]></description>
+		
+					<wfw:commentRss>/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1666</post-id>	</item>
+		<item>
+		<title>Types of Bridges</title>
+		<link>/types-of-bridges/</link>
+					<comments>/types-of-bridges/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<category><![CDATA[Arch Bridge]]></category>
+		<category><![CDATA[Beam Bridge]]></category>
+		<category><![CDATA[Cable Stayed Bridge]]></category>
+		<category><![CDATA[Cantilever Bridge]]></category>
+		<category><![CDATA[Deck Bridge]]></category>
+		<category><![CDATA[different types of bridges]]></category>
+		<category><![CDATA[emi Through Bridge]]></category>
+		<category><![CDATA[Fixed Span Bridge]]></category>
+		<category><![CDATA[Girder Bridge]]></category>
+		<category><![CDATA[Moveable Span Bridge]]></category>
+		<category><![CDATA[Simply Supported Bridge]]></category>
+		<category><![CDATA[Slab Bridge]]></category>
+		<category><![CDATA[Suspension Bridge]]></category>
+		<category><![CDATA[Through Bridge]]></category>
+		<category><![CDATA[Truss Bridge]]></category>
+		<category><![CDATA[types of Bridges According to Bridg e Flow]]></category>
+		<category><![CDATA[types of Bridges According to Flexibility]]></category>
+		<category><![CDATA[Types of Bridges According to Inter Span Relation]]></category>
+		<category><![CDATA[Types of Bridges According to Shape]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1128</guid>
+
+					<description><![CDATA[Bridges are a very important structure of a society or civilization. A bridge can connect people and can improve the life of people by giving numerous opportunities including many business sector. However, I am here to describe different types of bridges. I have collected this information from Wikipedia and other sites. You will definitely learn &#8230; <a href="/types-of-bridges/" class="more-link">Continue reading <span class="screen-reader-text">Types of Bridges</span></a>]]></description>
+		
+					<wfw:commentRss>/types-of-bridges/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1128</post-id>	</item>
+	</channel>
+</rss>

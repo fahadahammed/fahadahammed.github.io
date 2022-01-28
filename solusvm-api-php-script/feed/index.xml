@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: SolusVM API PHP Script	</title>
+	<atom:link href="/solusvm-api-php-script/feed/" rel="self" type="application/rss+xml" />
+	<link>/solusvm-api-php-script/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 13 Mar 2021 15:02:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Fahad Ahammed		</title>
+		<link>/solusvm-api-php-script/#comment-4592</link>
+
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 13 Mar 2021 15:02:51 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-4592</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/solusvm-api-php-script/#comment-4591&quot;&gt;Chris L&lt;/a&gt;.
+
+Thank you for notifying. I will try to investigate the issue. The script was tested on older php version.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/solusvm-api-php-script/#comment-4591">Chris L</a>.</p>
+<p>Thank you for notifying. I will try to investigate the issue. The script was tested on older php version.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Chris L		</title>
+		<link>/solusvm-api-php-script/#comment-4591</link>
+
+		<dc:creator><![CDATA[Chris L]]></dc:creator>
+		<pubDate>Sat, 06 Mar 2021 02:39:15 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-4591</guid>
+
+					<description><![CDATA[hi there
+
+i tried this script and im getting an error line 29 of the code and upon upload is a blank page.
+
+Thanks]]></description>
+			<content:encoded><![CDATA[<p>hi there</p>
+<p>i tried this script and im getting an error line 29 of the code and upon upload is a blank page.</p>
+<p>Thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: riadlynx		</title>
+		<link>/solusvm-api-php-script/#comment-71</link>
+
+		<dc:creator><![CDATA[riadlynx]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 16:53:39 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-71</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/solusvm-api-php-script/#comment-70&quot;&gt;Fahad Ahammed&lt;/a&gt;.
+
+thanks]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/solusvm-api-php-script/#comment-70">Fahad Ahammed</a>.</p>
+<p>thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fahad Ahammed		</title>
+		<link>/solusvm-api-php-script/#comment-70</link>
+
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 16:28:49 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-70</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/solusvm-api-php-script/#comment-69&quot;&gt;riadlynx&lt;/a&gt;.
+
+I need some more information to debug. Can you contact me in skype chat ? You can get me by skype id : obakfahad . Thank you.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/solusvm-api-php-script/#comment-69">riadlynx</a>.</p>
+<p>I need some more information to debug. Can you contact me in skype chat ? You can get me by skype id : obakfahad . Thank you.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: riadlynx		</title>
+		<link>/solusvm-api-php-script/#comment-69</link>
+
+		<dc:creator><![CDATA[riadlynx]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 16:24:30 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-69</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/solusvm-api-php-script/#comment-68&quot;&gt;Fahad Ahammed&lt;/a&gt;.
+
+look 
+http://hostfg.com/manage/api.php
+don&#039;t work 
+there are any probleme with my hosting ?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/solusvm-api-php-script/#comment-68">Fahad Ahammed</a>.</p>
+<p>look<br />
+<a href="http://hostfg.com/manage/api.php" rel="nofollow ugc">http://hostfg.com/manage/api.php</a><br />
+don&#8217;t work<br />
+there are any probleme with my hosting ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fahad Ahammed		</title>
+		<link>/solusvm-api-php-script/#comment-68</link>
+
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 00:17:36 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1059#comment-68</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/solusvm-api-php-script/#comment-67&quot;&gt;riadlynx&lt;/a&gt;.
+
+What is the error you get ? :O]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/solusvm-api-php-script/#comment-67">riadlynx</a>.</p>
+<p>What is the error you get ? :O</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

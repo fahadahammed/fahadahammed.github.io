@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>same folder but several user &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/same-folder-but-several-user/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 13 Oct 2015 16:40:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>same folder but several user &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Dual User Permission at Same Folder in Linux</title>
+		<link>/dual-user-permission-at-same-folder-in-linux/</link>
+					<comments>/dual-user-permission-at-same-folder-in-linux/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[access a folder with several user in linux]]></category>
+		<category><![CDATA[same folder but several user]]></category>
+		<category><![CDATA[same folder but several user read write access]]></category>
+		<category><![CDATA[ubuntu fodler permission for 2 or more users]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1408</guid>
+
+					<description><![CDATA[It is a pain to handle folder permission for new linux users or VPS users. Even some Pro-Linux users also face this problem. However, I will explain here how to give two users to read-write access of a same folder. Lets start. (Every Command need to execute by root or super user or sudo) First &#8230; <a href="/dual-user-permission-at-same-folder-in-linux/" class="more-link">Continue reading <span class="screen-reader-text">Dual User Permission at Same Folder in Linux</span></a>]]></description>
+		
+					<wfw:commentRss>/dual-user-permission-at-same-folder-in-linux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1408</post-id>	</item>
+	</channel>
+</rss>

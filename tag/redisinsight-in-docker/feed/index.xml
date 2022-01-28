@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>redisInsight in docker &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/redisinsight-in-docker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 28 Aug 2021 09:49:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>redisInsight in docker &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Development Environment with Docker Compose</title>
+		<link>/development-environment-with-docker-compose/</link>
+					<comments>/development-environment-with-docker-compose/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+				<category><![CDATA[Docker]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[docker]]></category>
+		<category><![CDATA[docker-compose]]></category>
+		<category><![CDATA[mongo in docker]]></category>
+		<category><![CDATA[mysql in docker]]></category>
+		<category><![CDATA[postgresql in docker]]></category>
+		<category><![CDATA[redis in docker]]></category>
+		<category><![CDATA[redis ui]]></category>
+		<category><![CDATA[redisInsight in docker]]></category>
+		<category><![CDATA[The best redis UI]]></category>
+		<guid isPermaLink="false">/?p=5429</guid>
+
+					<description><![CDATA[There are a lot of tools I need to work with. Installing some tools in my workstation and bloating the system is not an option with limited memory capacity, specially in MacBook Air M1 with 8GB of ram. So, I am using docker when using those tools. The day to day life depends on these &#8230; <a href="/development-environment-with-docker-compose/" class="more-link">Continue reading <span class="screen-reader-text">Development Environment with Docker Compose</span></a>]]></description>
+		
+					<wfw:commentRss>/development-environment-with-docker-compose/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5429</post-id>	</item>
+	</channel>
+</rss>

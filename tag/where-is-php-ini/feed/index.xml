@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>where is php.ini ? &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/where-is-php-ini/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sun, 17 May 2020 15:35:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>where is php.ini ? &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Change The Maximum Upload File Size in Php</title>
+		<link>/change-the-maximum-upload-file-size-in-php/</link>
+					<comments>/change-the-maximum-upload-file-size-in-php/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apache php upload file size]]></category>
+		<category><![CDATA[Change The Maximum Upload File Size in Php]]></category>
+		<category><![CDATA[max upload file size php]]></category>
+		<category><![CDATA[php upload file size]]></category>
+		<category><![CDATA[upload bigger sized file by changing php.ini]]></category>
+		<category><![CDATA[where is php.ini ?]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=685</guid>
+
+					<description><![CDATA[This is annoying to get file exceeds the max size allowed when you try for uploading files. How can you be able to upload bigger files without any caution or error ? We have to find php.ini file from your system. From terminal run this code : (For Total work you have to be in &#8230; <a href="/change-the-maximum-upload-file-size-in-php/" class="more-link">Continue reading <span class="screen-reader-text">Change The Maximum Upload File Size in Php</span></a>]]></description>
+		
+					<wfw:commentRss>/change-the-maximum-upload-file-size-in-php/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">685</post-id>	</item>
+	</channel>
+</rss>

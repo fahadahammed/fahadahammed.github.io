@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Encrypt Any Files and folders in Linux &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/encrypt-any-files-and-folders-in-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 13 Oct 2015 16:27:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Encrypt Any Files and folders in Linux &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Encrypt Any Files in Linux</title>
+		<link>/encrypt-any-files-in-linux/</link>
+					<comments>/encrypt-any-files-in-linux/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Encrypt Any Files and folders in Linux]]></category>
+		<category><![CDATA[encrypt file via gpg]]></category>
+		<category><![CDATA[Encrypt files via openssl]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1747</guid>
+
+					<description><![CDATA[I have been trying to encrypt files and folders lately. It is fun but useful. You can encrypt any file which can take several years to decrypt for a hacker. That &#8220;Several&#8221; is not less. According to recent super computer &#8220;K Computer&#8221; which is the fastest can calculate 8,200,000,000,000,000 (8.2 quadrillion) calculations per second. Lets &#8230; <a href="/encrypt-any-files-in-linux/" class="more-link">Continue reading <span class="screen-reader-text">Encrypt Any Files in Linux</span></a>]]></description>
+		
+					<wfw:commentRss>/encrypt-any-files-in-linux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1747</post-id>	</item>
+	</channel>
+</rss>

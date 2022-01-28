@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>squid proxy facebook not looding &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/squid-proxy-facebook-not-looding/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Fri, 01 Nov 2013 09:30:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>squid proxy facebook not looding &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Solve Google,Facebook etc site Loading Problem in Squid Proxy</title>
+		<link>/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</link>
+					<comments>/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+				<category><![CDATA[Proxy Server]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[google not loading by squid proxy server]]></category>
+		<category><![CDATA[How to solve squid IPV6 problem]]></category>
+		<category><![CDATA[squid]]></category>
+		<category><![CDATA[squid IPV6 problem]]></category>
+		<category><![CDATA[squid proxy facebook not looding]]></category>
+		<category><![CDATA[squid proxy from vps]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=831</guid>
+
+					<description><![CDATA[If you see that your newly created Squid proxy server can&#8217;t access Google, Facebook and other sites then you are right place to get the solution. Actually this problem arises when your ISP have no IPV6 for you. And Google,Facebook type giant sites has IPV6. So Squid just route you to access by IPV6 whether &#8230; <a href="/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/" class="more-link">Continue reading <span class="screen-reader-text">Solve Google,Facebook etc site Loading Problem in Squid Proxy</span></a>]]></description>
+		
+					<wfw:commentRss>/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">831</post-id>	</item>
+	</channel>
+</rss>

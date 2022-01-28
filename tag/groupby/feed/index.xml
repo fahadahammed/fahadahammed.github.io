@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>groupby &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/groupby/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 19 Dec 2020 18:40:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>groupby &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Some coding practice with Json, Itertools and Lambda in Python</title>
+		<link>/some-coding-practice-with-json-itertools-and-lambda-in-python/</link>
+					<comments>/some-coding-practice-with-json-itertools-and-lambda-in-python/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[groupby]]></category>
+		<category><![CDATA[itertools]]></category>
+		<category><![CDATA[json]]></category>
+		<category><![CDATA[lambda]]></category>
+		<category><![CDATA[python3]]></category>
+		<guid isPermaLink="false">/?p=5196</guid>
+
+					<description><![CDATA[I enjoy coding and solving problems. But as I go forward, I find myself in a sea of unknowns. Thus I decided to learn as much as possible to be confident. So, I am learning even the simplest it seems. Let me start. I have a json file named data.json having data &#8211; How do &#8230; <a href="/some-coding-practice-with-json-itertools-and-lambda-in-python/" class="more-link">Continue reading <span class="screen-reader-text">Some coding practice with Json, Itertools and Lambda in Python</span></a>]]></description>
+		
+					<wfw:commentRss>/some-coding-practice-with-json-itertools-and-lambda-in-python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5196</post-id>	</item>
+	</channel>
+</rss>

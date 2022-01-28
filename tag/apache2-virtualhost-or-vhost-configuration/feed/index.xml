@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>apache2 virtualhost or vhost configuration &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/apache2-virtualhost-or-vhost-configuration/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Mon, 28 Dec 2020 05:59:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>apache2 virtualhost or vhost configuration &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Change Websites Default Folder to Another Folder in Apache</title>
+		<link>/change-websites-default-folder-to-another-folder-in-apache/</link>
+					<comments>/change-websites-default-folder-to-another-folder-in-apache/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apache]]></category>
+		<category><![CDATA[apache2]]></category>
+		<category><![CDATA[apache2 virtualhost or vhost configuration]]></category>
+		<category><![CDATA[websites default folder to anothe fodler]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1460</guid>
+
+					<description><![CDATA[Apache is the most used server. It is used to serve more than half of all active websites. It will be very helpful to understand Apache. Understanding the configuration of virtual host of Apache is important as sometime it will be a tough job to do. I will show you how to set default folder of &#8230; <a href="/change-websites-default-folder-to-another-folder-in-apache/" class="more-link">Continue reading <span class="screen-reader-text">Change Websites Default Folder to Another Folder in Apache</span></a>]]></description>
+		
+					<wfw:commentRss>/change-websites-default-folder-to-another-folder-in-apache/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1460</post-id>	</item>
+	</channel>
+</rss>

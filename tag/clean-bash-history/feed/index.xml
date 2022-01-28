@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>clean bash history &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/clean-bash-history/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 13 Oct 2015 16:40:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>clean bash history &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Clear Bash History Completely?</title>
+		<link>/clear-bash-history-completely/</link>
+					<comments>/clear-bash-history-completely/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 19 May 2014 10:20:32 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[clean bash history]]></category>
+		<category><![CDATA[What is Bash ?]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1462</guid>
+
+					<description><![CDATA[If you have linux server or linux operating system(distribution) in your pc then you are using bash. Bash is a command processor and Unix Shell, typically run in a text window, allowing the user to type commands which cause actions. Bash can also read commands from a file, called a script. Bash keep records of &#8230; <a href="/clear-bash-history-completely/" class="more-link">Continue reading <span class="screen-reader-text">Clear Bash History Completely?</span></a>]]></description>
+		
+					<wfw:commentRss>/clear-bash-history-completely/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1462</post-id>	</item>
+	</channel>
+</rss>

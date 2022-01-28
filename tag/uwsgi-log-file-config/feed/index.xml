@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>uwsgi log file config &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/uwsgi-log-file-config/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 11 Sep 2021 11:15:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>uwsgi log file config &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>How to run Python Flask Application?</title>
+		<link>/how-to-run-python-flask-application/</link>
+					<comments>/how-to-run-python-flask-application/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[gunicorn]]></category>
+		<category><![CDATA[gunicorn to run flask application]]></category>
+		<category><![CDATA[python flask]]></category>
+		<category><![CDATA[python3]]></category>
+		<category><![CDATA[uwsgi]]></category>
+		<category><![CDATA[uwsgi log file config]]></category>
+		<category><![CDATA[uwsgi to run flask application]]></category>
+		<guid isPermaLink="false">/?p=5432</guid>
+
+					<description><![CDATA[I mostly use Python Flask when I need to develop a Web App or API. Why? Because it is: lightweight Very Flexible Micro-Service Friendly Fast Development These are one of the main reasons I choose Flask. But mostly I love to code with Flask. There are so many ways to run flask applications. I will &#8230; <a href="/how-to-run-python-flask-application/" class="more-link">Continue reading <span class="screen-reader-text">How to run Python Flask Application?</span></a>]]></description>
+		
+					<wfw:commentRss>/how-to-run-python-flask-application/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5432</post-id>	</item>
+	</channel>
+</rss>

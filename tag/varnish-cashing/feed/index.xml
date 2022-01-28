@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Varnish Cashing &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/varnish-cashing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 13 Apr 2013 15:52:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Varnish Cashing &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Caching with Varnish</title>
+		<link>/caching-with-varnish/</link>
+					<comments>/caching-with-varnish/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cache website with varnish]]></category>
+		<category><![CDATA[caching with varnish]]></category>
+		<category><![CDATA[Cashing with varnish]]></category>
+		<category><![CDATA[varnish caching]]></category>
+		<category><![CDATA[Varnish Cashing]]></category>
+		<category><![CDATA[varnish vcl to cache]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=481</guid>
+
+					<description><![CDATA[Varnish is an HTTP accelerator designed for content-heavy dynamic web sites. In contrast to other web accelerators, such as Squid, which began life as a client-side cache, or Apache and nginx, which are primarily origin servers, Varnish was designed as an HTTP accelerator. Varnish is focused exclusively on HTTP, unlike other proxy servers that often &#8230; <a href="/caching-with-varnish/" class="more-link">Continue reading <span class="screen-reader-text">Caching with Varnish</span></a>]]></description>
+		
+					<wfw:commentRss>/caching-with-varnish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">481</post-id>	</item>
+	</channel>
+</rss>

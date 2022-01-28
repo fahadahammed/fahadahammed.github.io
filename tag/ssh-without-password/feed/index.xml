@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ssh without password &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/ssh-without-password/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sun, 01 Dec 2013 10:51:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>ssh without password &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Crontab Rsync without Password</title>
+		<link>/crontab-rsync-without-password/</link>
+					<comments>/crontab-rsync-without-password/#comments</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[crontab rsync]]></category>
+		<category><![CDATA[crontab ssh copy]]></category>
+		<category><![CDATA[how to remote backup files from server by crontab without password asks]]></category>
+		<category><![CDATA[How to use ssh-copy-id on a non-standard port]]></category>
+		<category><![CDATA[rsync]]></category>
+		<category><![CDATA[rsync without password]]></category>
+		<category><![CDATA[ssh without password]]></category>
+		<category><![CDATA[ssh-copy-id different port]]></category>
+		<category><![CDATA[ssh-copy-id on a different port]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=866</guid>
+
+					<description><![CDATA[Perform rsync asks for password on the remote server before starting the transfer. Sometimes we need to run rsync by crontab where it is not possible to give password.  Here is a solution to use crontab to execute rsync without any password. This is helpful when you are scheduling a cron job for automatic backup &#8230; <a href="/crontab-rsync-without-password/" class="more-link">Continue reading <span class="screen-reader-text">Crontab Rsync without Password</span></a>]]></description>
+		
+					<wfw:commentRss>/crontab-rsync-without-password/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">866</post-id>	</item>
+	</channel>
+</rss>

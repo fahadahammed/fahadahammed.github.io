@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>highspeed internet connection bangladesh &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/highspeed-internet-connection-bangladesh/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 26 Nov 2013 14:17:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>highspeed internet connection bangladesh &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Bangladesh Submarine Cable Network</title>
+		<link>/bangladesh-submarine-cable-network/</link>
+					<comments>/bangladesh-submarine-cable-network/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[bangladesh internet gateways]]></category>
+		<category><![CDATA[bangladesh internet history]]></category>
+		<category><![CDATA[highspeed internet connection bangladesh]]></category>
+		<category><![CDATA[submarine cable bangladesh]]></category>
+		<category><![CDATA[submarine cable bangladesh routes]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=884</guid>
+
+					<description><![CDATA[Bangladesh decided to connect to world wide web in late 1995 by VSAT or Very Small Aperture Terminal. On June 4, 1996 the VSAT base data circuit was commissioned for the first time in the country. Upon VSAT commissioning, internet connectivity was established &#38; its services were made available to the public. After internet was &#8230; <a href="/bangladesh-submarine-cable-network/" class="more-link">Continue reading <span class="screen-reader-text">Bangladesh Submarine Cable Network</span></a>]]></description>
+		
+					<wfw:commentRss>/bangladesh-submarine-cable-network/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">884</post-id>	</item>
+	</channel>
+</rss>

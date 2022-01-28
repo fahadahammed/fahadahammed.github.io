@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ispconfig &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/ispconfig/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 03 Dec 2013 18:23:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>ispconfig &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>ISPConfig: Where are the templates for the config files and default pages?</title>
+		<link>/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/</link>
+					<comments>/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2013 18:23:51 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ispconfig]]></category>
+		<category><![CDATA[ispconfig default pages]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=892</guid>
+
+					<description><![CDATA[IspConfig is a very powerful free server control panel with many features. It has a interesting feature as it generate error pages and default index of each domain. Which you can easily edit and get all future generated pages by your choice. The templates for the configuration files are located in the folder: /usr/local/ispconfig/server/conf/ The &#8230; <a href="/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/" class="more-link">Continue reading <span class="screen-reader-text">ISPConfig: Where are the templates for the config files and default pages?</span></a>]]></description>
+		
+					<wfw:commentRss>/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">892</post-id>	</item>
+	</channel>
+</rss>

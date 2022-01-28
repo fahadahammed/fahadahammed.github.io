@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Multiple WordPress in Lighttpd &#038; Php5 in Ubuntu VPS or Server	</title>
+	<atom:link href="/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/feed/" rel="self" type="application/rss+xml" />
+	<link>/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sun, 29 Sep 2013 15:19:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Lighttpd Server with SSL &#124; Fahad Ahammed		</title>
+		<link>/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/#comment-65</link>
+
+		<dc:creator><![CDATA[Lighttpd Server with SSL &#124; Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2013 15:19:24 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=698#comment-65</guid>
+
+					<description><![CDATA[[&#8230;] have your websites document root in /var/www/site1.com. you can create multiple sites with help of this [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] have your websites document root in /var/www/site1.com. you can create multiple sites with help of this [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

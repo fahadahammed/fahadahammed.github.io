@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>squirrelmail &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/squirrelmail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Fri, 01 Jul 2016 06:54:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>squirrelmail &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Squirrelmail Error With Ispconfig</title>
+		<link>/squirrelmail-error-with-ispconfig/</link>
+					<comments>/squirrelmail-error-with-ispconfig/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2013 02:49:06 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[attachment problem squirrelmail]]></category>
+		<category><![CDATA[squirrelmail]]></category>
+		<category><![CDATA[SquirrelMail Error - Could not move/copy file. File not attached]]></category>
+		<category><![CDATA[squirrelmail error attachment]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=792</guid>
+
+					<description><![CDATA[If you have installed ispconfig by following http://www.howtoforge.com/  then you have also installed squirrel mail. You may face attachment problem, Saying data directory is not writable. Here is the solution. First in terminal run this command: squirrelmail-configure choose 4 (General Options) and press Enter. Check the directories. Type &#8220;Q&#8221; to quit. Now Check the user:group of &#8230; <a href="/squirrelmail-error-with-ispconfig/" class="more-link">Continue reading <span class="screen-reader-text">Squirrelmail Error With Ispconfig</span></a>]]></description>
+		
+					<wfw:commentRss>/squirrelmail-error-with-ispconfig/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">792</post-id>	</item>
+	</channel>
+</rss>

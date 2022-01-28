@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>pptp vpn install in ubuntu server &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/pptp-vpn-install-in-ubuntu-server/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Thu, 03 Oct 2013 05:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>pptp vpn install in ubuntu server &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>How To Setup a PPTP VPN in Ubuntu Server ?</title>
+		<link>/how-to-setup-a-pptp-vpn-in-ubuntu-server/</link>
+					<comments>/how-to-setup-a-pptp-vpn-in-ubuntu-server/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 05:46:33 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[How To Setup a PPTP VPN in Ubuntu Server ?]]></category>
+		<category><![CDATA[pptp vpn install in ubuntu server]]></category>
+		<category><![CDATA[pptp vpn server]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=789</guid>
+
+					<description><![CDATA[VPN secures your computer&#8217;s internet connection to guarantee that all of the data you&#8217;re sending and receiving is encrypted and secured from prying eyes. You can get cheap vpn from many vpn providers. But i will show you how to get a private VPN maintained by yourself by less then 4$. You will need a &#8230; <a href="/how-to-setup-a-pptp-vpn-in-ubuntu-server/" class="more-link">Continue reading <span class="screen-reader-text">How To Setup a PPTP VPN in Ubuntu Server ?</span></a>]]></description>
+		
+					<wfw:commentRss>/how-to-setup-a-pptp-vpn-in-ubuntu-server/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">789</post-id>	</item>
+	</channel>
+</rss>

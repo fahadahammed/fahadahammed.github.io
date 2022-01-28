@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>enable php extension rewrite &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/enable-php-extension-rewrite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 18 May 2013 01:20:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>enable php extension rewrite &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Browser Caching with htaccess</title>
+		<link>/browser-caching-with-htaccess/</link>
+					<comments>/browser-caching-with-htaccess/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Browser Caching with htaccess]]></category>
+		<category><![CDATA[caching files by htaccess]]></category>
+		<category><![CDATA[enable php extension expires]]></category>
+		<category><![CDATA[enable php extension header]]></category>
+		<category><![CDATA[enable php extension rewrite]]></category>
+		<category><![CDATA[speedup with htaccess caching]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=581</guid>
+
+					<description><![CDATA[Browser caching is a good idea to make/feel your site speedy . Your sites visitors will find it much speedier after first visit . If you test your page in pingdom and google speed analysis tool you will see a recommendation there to enable caching . That is why i am sharing this . First &#8230; <a href="/browser-caching-with-htaccess/" class="more-link">Continue reading <span class="screen-reader-text">Browser Caching with htaccess</span></a>]]></description>
+		
+					<wfw:commentRss>/browser-caching-with-htaccess/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">581</post-id>	</item>
+	</channel>
+</rss>

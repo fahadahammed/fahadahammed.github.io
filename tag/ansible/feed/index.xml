@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ansible &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/ansible/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Wed, 26 Jan 2022 14:50:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>ansible &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>SSH Config and Ansible Host Generator and Why I am doing it this way?</title>
+		<link>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</link>
+					<comments>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ansible]]></category>
+		<category><![CDATA[ansible inventory]]></category>
+		<category><![CDATA[scripts]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ssh config]]></category>
+		<guid isPermaLink="false">/?p=5533</guid>
+
+					<description><![CDATA[I am recently playing the role as an SRE and that is why I have to deal with a lot of servers. Not only cloud once or clusters but also bare metals as well as Virtual Machines. For more systematic environment preparation, I have Gitlab pipeline. But for basic tasks like change the config on &#8230; <a href="/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/" class="more-link">Continue reading <span class="screen-reader-text">SSH Config and Ansible Host Generator and Why I am doing it this way?</span></a>]]></description>
+		
+					<wfw:commentRss>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5533</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Draw an Involute Curve From a Given Circle	</title>
+	<atom:link href="/draw-an-involute-curve-from-a-given-circle/feed/" rel="self" type="application/rss+xml" />
+	<link>/draw-an-involute-curve-from-a-given-circle/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sat, 23 Sep 2017 05:48:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Ben		</title>
+		<link>/draw-an-involute-curve-from-a-given-circle/#comment-3490</link>
+
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Sat, 23 Sep 2017 05:48:59 +0000</pubDate>
+		<guid isPermaLink="false">http://obakfahad.com/?p=1682#comment-3490</guid>
+
+					<description><![CDATA[Finally a good website...   thx]]></description>
+			<content:encoded><![CDATA[<p>Finally a good website&#8230;   thx</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

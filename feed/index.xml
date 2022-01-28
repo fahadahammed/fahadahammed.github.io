@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Fahad Ahammed</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Wed, 26 Jan 2022 14:50:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>SSH Config and Ansible Host Generator and Why I am doing it this way?</title>
+		<link>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</link>
+					<comments>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ansible]]></category>
+		<category><![CDATA[ansible inventory]]></category>
+		<category><![CDATA[scripts]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ssh config]]></category>
+		<guid isPermaLink="false">/?p=5533</guid>
+
+					<description><![CDATA[I am recently playing the role as an SRE and that is why I have to deal with a lot of servers. Not only cloud once or clusters but also bare metals as well as Virtual Machines. For more systematic environment preparation, I have Gitlab pipeline. But for basic tasks like change the config on &#8230; <a href="/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/" class="more-link">Continue reading <span class="screen-reader-text">SSH Config and Ansible Host Generator and Why I am doing it this way?</span></a>]]></description>
+		
+					<wfw:commentRss>/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5533</post-id>	</item>
+		<item>
+		<title>Getting habit to use TMUX</title>
+		<link>/getting-habit-to-use-tmux/</link>
+					<comments>/getting-habit-to-use-tmux/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2022 13:41:22 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[terminal multiplexer]]></category>
+		<category><![CDATA[tmux]]></category>
+		<guid isPermaLink="false">/?p=5522</guid>
+
+					<description><![CDATA[Recently been practicing TMUX for my day to day tasks. To be honest, I am late. I should have get used to it earlier. It is much more robust and well sorted than the other terminal multiplexers such as screen. How am I adapting? Default Session set to TMUX when create a new terminal session &#8230; <a href="/getting-habit-to-use-tmux/" class="more-link">Continue reading <span class="screen-reader-text">Getting habit to use TMUX</span></a>]]></description>
+		
+					<wfw:commentRss>/getting-habit-to-use-tmux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5522</post-id>	</item>
+		<item>
+		<title>My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</title>
+		<link>/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</link>
+					<comments>/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+				<category><![CDATA[Docker]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[difference between CMD and ENTRYPOINT]]></category>
+		<category><![CDATA[docker]]></category>
+		<category><![CDATA[docker build]]></category>
+		<category><![CDATA[dockerfile]]></category>
+		<category><![CDATA[flask]]></category>
+		<category><![CDATA[python3]]></category>
+		<category><![CDATA[RUN vs CMD vs ENTRYPOINT]]></category>
+		<guid isPermaLink="false">/?p=5499</guid>
+
+					<description><![CDATA[Containerization gives us many benefits from packaging to distribution and others. Thus, Docker is widely used as a containerization tool which is designed for running specific tasks and processes, not for hosting operating systems or like other virtualization tools like VMWare, VirtualBox etc. You create a container to serve a single unit task. Once it &#8230; <a href="/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/" class="more-link">Continue reading <span class="screen-reader-text">My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</span></a>]]></description>
+		
+					<wfw:commentRss>/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5499</post-id>	</item>
+		<item>
+		<title>Effective use of Redis with Python and Connection Pool</title>
+		<link>/effective-use-of-redis-with-python-and-connection-pool/</link>
+					<comments>/effective-use-of-redis-with-python-and-connection-pool/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2021 06:19:57 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[pipeline with redis python]]></category>
+		<category><![CDATA[redis]]></category>
+		<category><![CDATA[redis connection pool]]></category>
+		<guid isPermaLink="false">/?p=5480</guid>
+
+					<description><![CDATA[I have been working with redis and python for sometime. It is fun to play with python and redis. There are so many things can be solved by redis. Session persistency Caching Volatile Datastore Job or Message Queue Search And many more. But recently I was thinking about using it as main database. I am &#8230; <a href="/effective-use-of-redis-with-python-and-connection-pool/" class="more-link">Continue reading <span class="screen-reader-text">Effective use of Redis with Python and Connection Pool</span></a>]]></description>
+		
+					<wfw:commentRss>/effective-use-of-redis-with-python-and-connection-pool/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5480</post-id>	</item>
+		<item>
+		<title>How to create a ramdisk?</title>
+		<link>/how-to-create-a-ramdisk/</link>
+					<comments>/how-to-create-a-ramdisk/#comments</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[create ramdisk]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ramdisk]]></category>
+		<guid isPermaLink="false">/?p=5459</guid>
+
+					<description><![CDATA[Whether you have SSD with NVME Protocol or good old HDD, It is not going to make you feel superior than your Random Access Memory or RAM. By creating a ramdisk, you can use your unused memory as a super fast disk space and work with it. I do need to use nginx and for &#8230; <a href="/how-to-create-a-ramdisk/" class="more-link">Continue reading <span class="screen-reader-text">How to create a ramdisk?</span></a>]]></description>
+		
+					<wfw:commentRss>/how-to-create-a-ramdisk/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5459</post-id>	</item>
+		<item>
+		<title>How to run Python Flask Application?</title>
+		<link>/how-to-run-python-flask-application/</link>
+					<comments>/how-to-run-python-flask-application/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[gunicorn]]></category>
+		<category><![CDATA[gunicorn to run flask application]]></category>
+		<category><![CDATA[python flask]]></category>
+		<category><![CDATA[python3]]></category>
+		<category><![CDATA[uwsgi]]></category>
+		<category><![CDATA[uwsgi log file config]]></category>
+		<category><![CDATA[uwsgi to run flask application]]></category>
+		<guid isPermaLink="false">/?p=5432</guid>
+
+					<description><![CDATA[I mostly use Python Flask when I need to develop a Web App or API. Why? Because it is: lightweight Very Flexible Micro-Service Friendly Fast Development These are one of the main reasons I choose Flask. But mostly I love to code with Flask. There are so many ways to run flask applications. I will &#8230; <a href="/how-to-run-python-flask-application/" class="more-link">Continue reading <span class="screen-reader-text">How to run Python Flask Application?</span></a>]]></description>
+		
+					<wfw:commentRss>/how-to-run-python-flask-application/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5432</post-id>	</item>
+	</channel>
+</rss>

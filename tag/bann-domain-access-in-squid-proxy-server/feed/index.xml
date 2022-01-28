@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>bann domain access in squid proxy server &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/bann-domain-access-in-squid-proxy-server/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Tue, 12 Jan 2021 11:34:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>bann domain access in squid proxy server &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Blocking IP,Domain,Time to Access Websites in Squid Proxy Server !</title>
+		<link>/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/</link>
+					<comments>/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/#comments</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+				<category><![CDATA[Proxy Server]]></category>
+		<category><![CDATA[ban domain access in squid proxy server]]></category>
+		<category><![CDATA[ban facebook by squid proxy]]></category>
+		<category><![CDATA[ban google by squid proxy]]></category>
+		<category><![CDATA[bann domain access in squid proxy server]]></category>
+		<category><![CDATA[Blocking Domain]]></category>
+		<category><![CDATA[Blocking IP]]></category>
+		<category><![CDATA[Blocking Time to Access Websites in Squid Proxy Server !]]></category>
+		<guid isPermaLink="false">http://www.bdlinux.com/?p=113</guid>
+
+					<description><![CDATA[We can control website or ip to access or accessed by squid proxy server . We can set timely access rule or some ip range to acccess the server or also can block some website or ip for a range of ip or for  some limited time . #To block a particular Network: acl my_net &#8230; <a href="/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/" class="more-link">Continue reading <span class="screen-reader-text">Blocking IP,Domain,Time to Access Websites in Squid Proxy Server !</span></a>]]></description>
+		
+					<wfw:commentRss>/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">733</post-id>	</item>
+		<item>
+		<title>Squid Proxy Server Working or Not ?</title>
+		<link>/squid-proxy-server-working-or-not/</link>
+					<comments>/squid-proxy-server-working-or-not/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2013 10:40:48 +0000</pubDate>
+				<category><![CDATA[Proxy Server]]></category>
+		<category><![CDATA[bann domain access in squid proxy server]]></category>
+		<category><![CDATA[proxy vps]]></category>
+		<category><![CDATA[squid]]></category>
+		<category><![CDATA[squid proxy server]]></category>
+		<category><![CDATA[squid proxy server with user and password]]></category>
+		<guid isPermaLink="false">http://www.bdlinux.com/?p=121</guid>
+
+					<description><![CDATA[If you have completed your installation of squid proxy server then you can see how your proxy server working and how it is handling caching or contents . It is important to know whether squid server caching or not. tail -f /var/log/squid3/access.log Above command will monitor all incoming request and log them to /var/log/squid3/access_log file. &#8230; <a href="/squid-proxy-server-working-or-not/" class="more-link">Continue reading <span class="screen-reader-text">Squid Proxy Server Working or Not ?</span></a>]]></description>
+		
+					<wfw:commentRss>/squid-proxy-server-working-or-not/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">734</post-id>	</item>
+		<item>
+		<title>Ban domain access in squid proxy server</title>
+		<link>/ban-domain-access-in-squid-proxy-server/</link>
+					<comments>/ban-domain-access-in-squid-proxy-server/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2013 08:46:21 +0000</pubDate>
+				<category><![CDATA[Proxy Server]]></category>
+		<category><![CDATA[ban domain access in squid proxy server]]></category>
+		<category><![CDATA[ban facebook by squid proxy]]></category>
+		<category><![CDATA[ban google by squid proxy]]></category>
+		<category><![CDATA[bann domain access in squid proxy server]]></category>
+		<guid isPermaLink="false">http://www.bdlinux.com/?p=107</guid>
+
+					<description><![CDATA[Some times we need to control internet users in public hotspot or wifi or also school-college-university network . Anyone can control domains accessed by squid proxy by this tutorial . First open squid proxy configuration : nano /etc/squid3/squid.conf Add below lines to that configuration anywhere and save it : acl blockeddomain url_regex '/etc/squid3/blocked.domains.acl' http_access deny &#8230; <a href="/ban-domain-access-in-squid-proxy-server/" class="more-link">Continue reading <span class="screen-reader-text">Ban domain access in squid proxy server</span></a>]]></description>
+		
+					<wfw:commentRss>/ban-domain-access-in-squid-proxy-server/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">732</post-id>	</item>
+	</channel>
+</rss>

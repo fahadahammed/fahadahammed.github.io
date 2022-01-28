@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>file search from terminal ubuntu &#8211; Fahad Ahammed</title>
+	<atom:link href="/tag/file-search-from-terminal-ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Thoughts, Views &#38; More....</description>
+	<lastBuildDate>Sun, 05 May 2013 05:16:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/fahadahammed.com/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>file search from terminal ubuntu &#8211; Fahad Ahammed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">100091911</site>	<item>
+		<title>Linux File/Folder Search from Terminal</title>
+		<link>/linux-filefolder-search-from-terminal/</link>
+					<comments>/linux-filefolder-search-from-terminal/#respond</comments>
+		
+		<dc:creator><![CDATA[Fahad Ahammed]]></dc:creator>
+		<pubDate>Sun, 05 May 2013 05:16:18 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[file search from terminal ubuntu]]></category>
+		<category><![CDATA[how to find a file or folder from terminal in linux ?]]></category>
+		<category><![CDATA[Linux File/Folder Search from Terminal]]></category>
+		<category><![CDATA[serach a file or directory from terminal]]></category>
+		<guid isPermaLink="false">http://obakfahad.com/?p=559</guid>
+
+					<description><![CDATA[Sometimes we need to find file or folder . It is easy in graphical file manager . But in terminal you have to be tricky . For search a file from whole system : find / -type f -name "index.php" For searching a file from a folder where you are in now : find ./ &#8230; <a href="/linux-filefolder-search-from-terminal/" class="more-link">Continue reading <span class="screen-reader-text">Linux File/Folder Search from Terminal</span></a>]]></description>
+		
+					<wfw:commentRss>/linux-filefolder-search-from-terminal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">559</post-id>	</item>
+	</channel>
+</rss>
