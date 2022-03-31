@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nginx proxy auth on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/nginx-proxy-auth/</link>
+    <description>Recent content in nginx proxy auth on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 May 2018 06:21:00 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/nginx-proxy-auth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nginx to white-list ip or ask for password</title>
+      <link>https://fahadahammed.github.io/nginx-to-white-list-ip-or-ask-for-password/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/nginx-to-white-list-ip-or-ask-for-password/</guid>
+      <description>&lt;p&gt;Let, you want to protect a page or any site in nginx by certain IP addresses access only. How would you do it in nginx? I will discuss some cases here about the situation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

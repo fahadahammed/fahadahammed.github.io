@@ -1,0 +1,3494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/</link>
+    <description>Recent content in Tags on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 19:16:04 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dht-22</title>
+      <link>https://fahadahammed.github.io/tags/dht-22/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/dht-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humidity sensor</title>
+      <link>https://fahadahammed.github.io/tags/humidity-sensor/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/humidity-sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influxdb</title>
+      <link>https://fahadahammed.github.io/tags/influxdb/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/influxdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influxdb python client to write data</title>
+      <link>https://fahadahammed.github.io/tags/influxdb-python-client-to-write-data/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/influxdb-python-client-to-write-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influxdb2</title>
+      <link>https://fahadahammed.github.io/tags/influxdb2/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/influxdb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://fahadahammed.github.io/tags/python/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python3</title>
+      <link>https://fahadahammed.github.io/tags/python3/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://fahadahammed.github.io/tags/raspberrypi/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi gpio pin for dht-22</title>
+      <link>https://fahadahammed.github.io/tags/raspberrypi-gpio-pin-for-dht-22/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/raspberrypi-gpio-pin-for-dht-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temperature sensor</title>
+      <link>https://fahadahammed.github.io/tags/temperature-sensor/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/temperature-sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custom google sheet function</title>
+      <link>https://fahadahammed.github.io/tags/custom-google-sheet-function/</link>
+      <pubDate>Fri, 18 Feb 2022 08:59:55 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/custom-google-sheet-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google sheet</title>
+      <link>https://fahadahammed.github.io/tags/google-sheet/</link>
+      <pubDate>Fri, 18 Feb 2022 08:59:55 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/google-sheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://fahadahammed.github.io/tags/javascript/</link>
+      <pubDate>Fri, 18 Feb 2022 08:59:55 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible</title>
+      <link>https://fahadahammed.github.io/tags/ansible/</link>
+      <pubDate>Wed, 09 Feb 2022 14:49:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change root password of servers using ansible</title>
+      <link>https://fahadahammed.github.io/tags/change-root-password-of-servers-using-ansible/</link>
+      <pubDate>Wed, 09 Feb 2022 14:49:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-root-password-of-servers-using-ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csv</title>
+      <link>https://fahadahammed.github.io/tags/csv/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/csv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to efficiently compare two lists of lists in python?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-efficiently-compare-two-lists-of-lists-in-python/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-efficiently-compare-two-lists-of-lists-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to open CSV file in python3?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-open-csv-file-in-python3/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-open-csv-file-in-python3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://fahadahammed.github.io/tags/scripts/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://fahadahammed.github.io/tags/docker/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker-compose</title>
+      <link>https://fahadahammed.github.io/tags/docker-compose/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitoring</title>
+      <link>https://fahadahammed.github.io/tags/monitoring/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible inventory</title>
+      <link>https://fahadahammed.github.io/tags/ansible-inventory/</link>
+      <pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ansible-inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://fahadahammed.github.io/tags/ssh/</link>
+      <pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh config</title>
+      <link>https://fahadahammed.github.io/tags/ssh-config/</link>
+      <pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal multiplexer</title>
+      <link>https://fahadahammed.github.io/tags/terminal-multiplexer/</link>
+      <pubDate>Mon, 24 Jan 2022 13:41:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/terminal-multiplexer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmux</title>
+      <link>https://fahadahammed.github.io/tags/tmux/</link>
+      <pubDate>Mon, 24 Jan 2022 13:41:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/tmux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>difference between CMD and ENTRYPOINT</title>
+      <link>https://fahadahammed.github.io/tags/difference-between-cmd-and-entrypoint/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/difference-between-cmd-and-entrypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker build</title>
+      <link>https://fahadahammed.github.io/tags/docker-build/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/docker-build/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dockerfile</title>
+      <link>https://fahadahammed.github.io/tags/dockerfile/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/dockerfile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>https://fahadahammed.github.io/tags/flask/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RUN vs CMD vs ENTRYPOINT</title>
+      <link>https://fahadahammed.github.io/tags/run-vs-cmd-vs-entrypoint/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/run-vs-cmd-vs-entrypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline with redis python</title>
+      <link>https://fahadahammed.github.io/tags/pipeline-with-redis-python/</link>
+      <pubDate>Sat, 09 Oct 2021 06:19:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/pipeline-with-redis-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://fahadahammed.github.io/tags/redis/</link>
+      <pubDate>Sat, 09 Oct 2021 06:19:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis connection pool</title>
+      <link>https://fahadahammed.github.io/tags/redis-connection-pool/</link>
+      <pubDate>Sat, 09 Oct 2021 06:19:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/redis-connection-pool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create ramdisk</title>
+      <link>https://fahadahammed.github.io/tags/create-ramdisk/</link>
+      <pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/create-ramdisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://fahadahammed.github.io/tags/linux/</link>
+      <pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramdisk</title>
+      <link>https://fahadahammed.github.io/tags/ramdisk/</link>
+      <pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ramdisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gunicorn</title>
+      <link>https://fahadahammed.github.io/tags/gunicorn/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/gunicorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gunicorn to run flask application</title>
+      <link>https://fahadahammed.github.io/tags/gunicorn-to-run-flask-application/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/gunicorn-to-run-flask-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python flask</title>
+      <link>https://fahadahammed.github.io/tags/python-flask/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python-flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uwsgi</title>
+      <link>https://fahadahammed.github.io/tags/uwsgi/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/uwsgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uwsgi log file config</title>
+      <link>https://fahadahammed.github.io/tags/uwsgi-log-file-config/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/uwsgi-log-file-config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uwsgi to run flask application</title>
+      <link>https://fahadahammed.github.io/tags/uwsgi-to-run-flask-application/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/uwsgi-to-run-flask-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongo in docker</title>
+      <link>https://fahadahammed.github.io/tags/mongo-in-docker/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mongo-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql in docker</title>
+      <link>https://fahadahammed.github.io/tags/mysql-in-docker/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mysql-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgresql in docker</title>
+      <link>https://fahadahammed.github.io/tags/postgresql-in-docker/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/postgresql-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis in docker</title>
+      <link>https://fahadahammed.github.io/tags/redis-in-docker/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/redis-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis ui</title>
+      <link>https://fahadahammed.github.io/tags/redis-ui/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/redis-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redisInsight in docker</title>
+      <link>https://fahadahammed.github.io/tags/redisinsight-in-docker/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/redisinsight-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The best redis UI</title>
+      <link>https://fahadahammed.github.io/tags/the-best-redis-ui/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/the-best-redis-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache kafka</title>
+      <link>https://fahadahammed.github.io/tags/apache-kafka/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://fahadahammed.github.io/tags/kafka/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python kakfa</title>
+      <link>https://fahadahammed.github.io/tags/python-kakfa/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python-kakfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datetime with timezone and pytz</title>
+      <link>https://fahadahammed.github.io/tags/datetime-with-timezone-and-pytz/</link>
+      <pubDate>Wed, 31 Mar 2021 05:04:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/datetime-with-timezone-and-pytz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python datetime</title>
+      <link>https://fahadahammed.github.io/tags/python-datetime/</link>
+      <pubDate>Wed, 31 Mar 2021 05:04:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python-datetime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timedelta</title>
+      <link>https://fahadahammed.github.io/tags/timedelta/</link>
+      <pubDate>Wed, 31 Mar 2021 05:04:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/timedelta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timezone conflict</title>
+      <link>https://fahadahammed.github.io/tags/timezone-conflict/</link>
+      <pubDate>Wed, 31 Mar 2021 05:04:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/timezone-conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>getdockerized</title>
+      <link>https://fahadahammed.github.io/tags/getdockerized/</link>
+      <pubDate>Tue, 16 Mar 2021 17:23:28 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/getdockerized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>container store raspberry pi</title>
+      <link>https://fahadahammed.github.io/tags/container-store-raspberry-pi/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/container-store-raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker hub private</title>
+      <link>https://fahadahammed.github.io/tags/docker-hub-private/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/docker-hub-private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker registry</title>
+      <link>https://fahadahammed.github.io/tags/docker-registry/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/docker-registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install docker registry in Raspberry Pi 3B&#43;?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-install-docker-registry-in-raspberry-pi-3b&#43;/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-install-docker-registry-in-raspberry-pi-3b&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup docker registry in a raspberry pi?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-setup-docker-registry-in-a-raspberry-pi/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-setup-docker-registry-in-a-raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lighttpd</title>
+      <link>https://fahadahammed.github.io/tags/lighttpd/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lighttpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi as a private docker hub</title>
+      <link>https://fahadahammed.github.io/tags/raspberry-pi-as-a-private-docker-hub/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/raspberry-pi-as-a-private-docker-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fibonacci series in python</title>
+      <link>https://fahadahammed.github.io/tags/fibonacci-series-in-python/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fibonacci-series-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golden ratio</title>
+      <link>https://fahadahammed.github.io/tags/golden-ratio/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/golden-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lru_cache in fibonacci</title>
+      <link>https://fahadahammed.github.io/tags/lru_cache-in-fibonacci/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lru_cache-in-fibonacci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memoization</title>
+      <link>https://fahadahammed.github.io/tags/memoization/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/memoization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recursion in python</title>
+      <link>https://fahadahammed.github.io/tags/recursion-in-python/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/recursion-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to parse logs using Python</title>
+      <link>https://fahadahammed.github.io/tags/how-to-parse-logs-using-python/</link>
+      <pubDate>Tue, 12 Jan 2021 15:59:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-parse-logs-using-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python multiline log parser</title>
+      <link>https://fahadahammed.github.io/tags/python-multiline-log-parser/</link>
+      <pubDate>Tue, 12 Jan 2021 15:59:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/python-multiline-log-parser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a4tech</title>
+      <link>https://fahadahammed.github.io/tags/a4tech/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/a4tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A4tech FG35</title>
+      <link>https://fahadahammed.github.io/tags/a4tech-fg35/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/a4tech-fg35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FG35</title>
+      <link>https://fahadahammed.github.io/tags/fg35/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fg35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouse</title>
+      <link>https://fahadahammed.github.io/tags/mouse/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wireless</title>
+      <link>https://fahadahammed.github.io/tags/wireless/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://fahadahammed.github.io/tags/git/</link>
+      <pubDate>Sat, 26 Dec 2020 17:03:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>un-add the file</title>
+      <link>https://fahadahammed.github.io/tags/un-add-the-file/</link>
+      <pubDate>Sat, 26 Dec 2020 17:03:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/un-add-the-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>un-commit the last commit</title>
+      <link>https://fahadahammed.github.io/tags/un-commit-the-last-commit/</link>
+      <pubDate>Sat, 26 Dec 2020 17:03:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/un-commit-the-last-commit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groupby</title>
+      <link>https://fahadahammed.github.io/tags/groupby/</link>
+      <pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/groupby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itertools</title>
+      <link>https://fahadahammed.github.io/tags/itertools/</link>
+      <pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/itertools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>json</title>
+      <link>https://fahadahammed.github.io/tags/json/</link>
+      <pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lambda</title>
+      <link>https://fahadahammed.github.io/tags/lambda/</link>
+      <pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eval()</title>
+      <link>https://fahadahammed.github.io/tags/eval/</link>
+      <pubDate>Mon, 26 Oct 2020 16:49:32 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://fahadahammed.github.io/tags/programming/</link>
+      <pubDate>Mon, 26 Oct 2020 10:28:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongo</title>
+      <link>https://fahadahammed.github.io/tags/mongo/</link>
+      <pubDate>Thu, 22 Oct 2020 07:34:52 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mongo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>https://fahadahammed.github.io/tags/mongodb/</link>
+      <pubDate>Thu, 22 Oct 2020 07:34:52 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://fahadahammed.github.io/tags/nginx/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx proxy auth</title>
+      <link>https://fahadahammed.github.io/tags/nginx-proxy-auth/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx-proxy-auth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx proxy spring security basic auth</title>
+      <link>https://fahadahammed.github.io/tags/nginx-proxy-spring-security-basic-auth/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx-proxy-spring-security-basic-auth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>satisfy any</title>
+      <link>https://fahadahammed.github.io/tags/satisfy-any/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/satisfy-any/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring security and basic auth</title>
+      <link>https://fahadahammed.github.io/tags/spring-security-and-basic-auth/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/spring-security-and-basic-auth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>লিনাক্স সার্ভার এ ফাইল কিভাবে খুজে পাবো?</title>
+      <link>https://fahadahammed.github.io/tags/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%8B/</link>
+      <pubDate>Sun, 04 Feb 2018 09:18:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>সার্ভার এ ফাইল কিভাবে খুজে পাবো?</title>
+      <link>https://fahadahammed.github.io/tags/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%8B/</link>
+      <pubDate>Sun, 04 Feb 2018 09:18:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>সেন্টওএস এ ফাইল খুজে বের করবো কিভাবে?</title>
+      <link>https://fahadahammed.github.io/tags/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%93%E0%A6%8F%E0%A6%B8-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%8B-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87/</link>
+      <pubDate>Sun, 04 Feb 2018 09:18:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%93%E0%A6%8F%E0%A6%B8-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%96%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%8B-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudflare rate limit alternative</title>
+      <link>https://fahadahammed.github.io/tags/cloudflare-rate-limit-alternative/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/cloudflare-rate-limit-alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>limit requests to webpages</title>
+      <link>https://fahadahammed.github.io/tags/limit-requests-to-webpages/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/limit-requests-to-webpages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manual rate limit nginx</title>
+      <link>https://fahadahammed.github.io/tags/manual-rate-limit-nginx/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/manual-rate-limit-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rate limit with nginx</title>
+      <link>https://fahadahammed.github.io/tags/rate-limit-with-nginx/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/rate-limit-with-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>request limit with white label ip</title>
+      <link>https://fahadahammed.github.io/tags/request-limit-with-white-label-ip/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/request-limit-with-white-label-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get back ubuntu after windows8</title>
+      <link>https://fahadahammed.github.io/tags/get-back-ubuntu-after-windows8/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-back-ubuntu-after-windows8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get back ubuntu after windows8.1</title>
+      <link>https://fahadahammed.github.io/tags/get-back-ubuntu-after-windows8.1/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-back-ubuntu-after-windows8.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grub repair for ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/grub-repair-for-ubuntu/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/grub-repair-for-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grub repair ubuntu after windows</title>
+      <link>https://fahadahammed.github.io/tags/grub-repair-ubuntu-after-windows/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/grub-repair-ubuntu-after-windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu is lost after windows install</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu-is-lost-after-windows-install/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu-is-lost-after-windows-install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu removed by windows install</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu-removed-by-windows-install/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu-removed-by-windows-install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows installation removed my ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/windows-installation-removed-my-ubuntu/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/windows-installation-removed-my-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>load balancing with nginx</title>
+      <link>https://fahadahammed.github.io/tags/load-balancing-with-nginx/</link>
+      <pubDate>Sat, 14 Mar 2015 12:00:12 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/load-balancing-with-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>load balancing with small servers by nginx setup</title>
+      <link>https://fahadahammed.github.io/tags/load-balancing-with-small-servers-by-nginx-setup/</link>
+      <pubDate>Sat, 14 Mar 2015 12:00:12 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/load-balancing-with-small-servers-by-nginx-setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx to load balance your website</title>
+      <link>https://fahadahammed.github.io/tags/nginx-to-load-balance-your-website/</link>
+      <pubDate>Sat, 14 Mar 2015 12:00:12 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx-to-load-balance-your-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer your websites load to several small vps with nginx</title>
+      <link>https://fahadahammed.github.io/tags/transfer-your-websites-load-to-several-small-vps-with-nginx/</link>
+      <pubDate>Sat, 14 Mar 2015 12:00:12 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/transfer-your-websites-load-to-several-small-vps-with-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bypass any restriction on visiting websites by shadowsocks</title>
+      <link>https://fahadahammed.github.io/tags/bypass-any-restriction-on-visiting-websites-by-shadowsocks/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bypass-any-restriction-on-visiting-websites-by-shadowsocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bypass firewall by shadowsocks</title>
+      <link>https://fahadahammed.github.io/tags/bypass-firewall-by-shadowsocks/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bypass-firewall-by-shadowsocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow SOCKS protocol error in NAT vps</title>
+      <link>https://fahadahammed.github.io/tags/shadow-socks-protocol-error-in-nat-vps/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/shadow-socks-protocol-error-in-nat-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow SOCKS protocol error lowendspirit vps</title>
+      <link>https://fahadahammed.github.io/tags/shadow-socks-protocol-error-lowendspirit-vps/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/shadow-socks-protocol-error-lowendspirit-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadowsocks as http proxy</title>
+      <link>https://fahadahammed.github.io/tags/shadowsocks-as-http-proxy/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/shadowsocks-as-http-proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brightness control not working in ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/brightness-control-not-working-in-ubuntu/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/brightness-control-not-working-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brightness not changing in Ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/brightness-not-changing-in-ubuntu/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/brightness-not-changing-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brightness not controllable in Debian</title>
+      <link>https://fahadahammed.github.io/tags/brightness-not-controllable-in-debian/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/brightness-not-controllable-in-debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brightness problem in ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/brightness-problem-in-ubuntu/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/brightness-problem-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Brightness of My Laptop in Debian</title>
+      <link>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-debian/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Brightness of My Laptop in Linux</title>
+      <link>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-linux/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Brightness of My Laptop in Ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-ubuntu/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-brightness-of-my-laptop-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concepts of prestressed concrete</title>
+      <link>https://fahadahammed.github.io/tags/concepts-of-prestressed-concrete/</link>
+      <pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/concepts-of-prestressed-concrete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prestressed concrete</title>
+      <link>https://fahadahammed.github.io/tags/prestressed-concrete/</link>
+      <pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/prestressed-concrete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prestressed concrete and its concepts</title>
+      <link>https://fahadahammed.github.io/tags/prestressed-concrete-and-its-concepts/</link>
+      <pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/prestressed-concrete-and-its-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prestressed concrete and its types</title>
+      <link>https://fahadahammed.github.io/tags/prestressed-concrete-and-its-types/</link>
+      <pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/prestressed-concrete-and-its-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do you mean by prestressed concrete?</title>
+      <link>https://fahadahammed.github.io/tags/what-do-you-mean-by-prestressed-concrete/</link>
+      <pubDate>Tue, 02 Sep 2014 09:35:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/what-do-you-mean-by-prestressed-concrete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encrypt Any Files and folders in Linux</title>
+      <link>https://fahadahammed.github.io/tags/encrypt-any-files-and-folders-in-linux/</link>
+      <pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/encrypt-any-files-and-folders-in-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encrypt file via gpg</title>
+      <link>https://fahadahammed.github.io/tags/encrypt-file-via-gpg/</link>
+      <pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/encrypt-file-via-gpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encrypt files via openssl</title>
+      <link>https://fahadahammed.github.io/tags/encrypt-files-via-openssl/</link>
+      <pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/encrypt-files-via-openssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allow server to monitor by munin</title>
+      <link>https://fahadahammed.github.io/tags/allow-server-to-monitor-by-munin/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/allow-server-to-monitor-by-munin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>easily setup munin</title>
+      <link>https://fahadahammed.github.io/tags/easily-setup-munin/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/easily-setup-munin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to install and configure munin for monitoring remote servers</title>
+      <link>https://fahadahammed.github.io/tags/how-to-install-and-configure-munin-for-monitoring-remote-servers/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-install-and-configure-munin-for-monitoring-remote-servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitor your vps by munin</title>
+      <link>https://fahadahammed.github.io/tags/monitor-your-vps-by-munin/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/monitor-your-vps-by-munin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup munin to monitor remote server</title>
+      <link>https://fahadahammed.github.io/tags/setup-munin-to-monitor-remote-server/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/setup-munin-to-monitor-remote-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>batch file to test vultrs locations</title>
+      <link>https://fahadahammed.github.io/tags/batch-file-to-test-vultrs-locations/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/batch-file-to-test-vultrs-locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>batch script to ping an ip or website</title>
+      <link>https://fahadahammed.github.io/tags/batch-script-to-ping-an-ip-or-website/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/batch-script-to-ping-an-ip-or-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digitaloceans all test ips</title>
+      <link>https://fahadahammed.github.io/tags/digitaloceans-all-test-ips/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/digitaloceans-all-test-ips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get ping results from digitaloceans all location</title>
+      <link>https://fahadahammed.github.io/tags/get-ping-results-from-digitaloceans-all-location/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-ping-results-from-digitaloceans-all-location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get ping results in a text file of digital oceans all locations</title>
+      <link>https://fahadahammed.github.io/tags/get-ping-results-in-a-text-file-of-digital-oceans-all-locations/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-ping-results-in-a-text-file-of-digital-oceans-all-locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Construction activities of the Maghbazar-Mouchak Inter-change</title>
+      <link>https://fahadahammed.github.io/tags/design-and-construction-activities-of-the-maghbazar-mouchak-inter-change/</link>
+      <pubDate>Sun, 10 Aug 2014 16:18:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/design-and-construction-activities-of-the-maghbazar-mouchak-inter-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moghbazar-Mouchak Flyover project</title>
+      <link>https://fahadahammed.github.io/tags/moghbazar-mouchak-flyover-project/</link>
+      <pubDate>Sun, 10 Aug 2014 16:18:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/moghbazar-mouchak-flyover-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moghbazar-Mouchak Flyover project informations</title>
+      <link>https://fahadahammed.github.io/tags/moghbazar-mouchak-flyover-project-informations/</link>
+      <pubDate>Sun, 10 Aug 2014 16:18:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/moghbazar-mouchak-flyover-project-informations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draw An Involute To A Circle Of Diameter 50 Mm</title>
+      <link>https://fahadahammed.github.io/tags/draw-an-involute-to-a-circle-of-diameter-50-mm/</link>
+      <pubDate>Wed, 06 Aug 2014 18:09:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/draw-an-involute-to-a-circle-of-diameter-50-mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>draw involute</title>
+      <link>https://fahadahammed.github.io/tags/draw-involute/</link>
+      <pubDate>Wed, 06 Aug 2014 18:09:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/draw-involute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engineering drawing involute</title>
+      <link>https://fahadahammed.github.io/tags/engineering-drawing-involute/</link>
+      <pubDate>Wed, 06 Aug 2014 18:09:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/engineering-drawing-involute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>application of fibonacci series</title>
+      <link>https://fahadahammed.github.io/tags/application-of-fibonacci-series/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/application-of-fibonacci-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fibonacci series in shell</title>
+      <link>https://fahadahammed.github.io/tags/fibonacci-series-in-shell/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fibonacci-series-in-shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell script to generate fibonacci series or number</title>
+      <link>https://fahadahammed.github.io/tags/shell-script-to-generate-fibonacci-series-or-number/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/shell-script-to-generate-fibonacci-series-or-number/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usefulness of fibonacci series or numbers</title>
+      <link>https://fahadahammed.github.io/tags/usefulness-of-fibonacci-series-or-numbers/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/usefulness-of-fibonacci-series-or-numbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What are the application or use of Fibonacci numbers or series?</title>
+      <link>https://fahadahammed.github.io/tags/what-are-the-application-or-use-of-fibonacci-numbers-or-series/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/what-are-the-application-or-use-of-fibonacci-numbers-or-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>where does fibonacci series used ?</title>
+      <link>https://fahadahammed.github.io/tags/where-does-fibonacci-series-used/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/where-does-fibonacci-series-used/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup full site to a remote server</title>
+      <link>https://fahadahammed.github.io/tags/backup-full-site-to-a-remote-server/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/backup-full-site-to-a-remote-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup system by rsync and mysqldump</title>
+      <link>https://fahadahammed.github.io/tags/backup-system-by-rsync-and-mysqldump/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/backup-system-by-rsync-and-mysqldump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup wordpress site to a different server</title>
+      <link>https://fahadahammed.github.io/tags/backup-wordpress-site-to-a-different-server/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/backup-wordpress-site-to-a-different-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>make mirror by rsync and also mysql dump</title>
+      <link>https://fahadahammed.github.io/tags/make-mirror-by-rsync-and-also-mysql-dump/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/make-mirror-by-rsync-and-also-mysql-dump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsync</title>
+      <link>https://fahadahammed.github.io/tags/rsync/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer files by rsync without giving password</title>
+      <link>https://fahadahammed.github.io/tags/transfer-files-by-rsync-without-giving-password/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/transfer-files-by-rsync-without-giving-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer files via rsync</title>
+      <link>https://fahadahammed.github.io/tags/transfer-files-via-rsync/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/transfer-files-via-rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://fahadahammed.github.io/tags/apache/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache2</title>
+      <link>https://fahadahammed.github.io/tags/apache2/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache2 virtualhost or vhost configuration</title>
+      <link>https://fahadahammed.github.io/tags/apache2-virtualhost-or-vhost-configuration/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache2-virtualhost-or-vhost-configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>websites default folder to anothe fodler</title>
+      <link>https://fahadahammed.github.io/tags/websites-default-folder-to-anothe-fodler/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/websites-default-folder-to-anothe-fodler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reset Windows Server 2008 Administrative password</title>
+      <link>https://fahadahammed.github.io/tags/reset-windows-server-2008-administrative-password/</link>
+      <pubDate>Fri, 20 Jun 2014 13:18:28 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/reset-windows-server-2008-administrative-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reset Windows server password</title>
+      <link>https://fahadahammed.github.io/tags/reset-windows-server-password/</link>
+      <pubDate>Fri, 20 Jun 2014 13:18:28 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/reset-windows-server-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change keyboard layout in lubuntu</title>
+      <link>https://fahadahammed.github.io/tags/change-keyboard-layout-in-lubuntu/</link>
+      <pubDate>Tue, 20 May 2014 03:13:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-keyboard-layout-in-lubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change keyboard layout in lxde</title>
+      <link>https://fahadahammed.github.io/tags/change-keyboard-layout-in-lxde/</link>
+      <pubDate>Tue, 20 May 2014 03:13:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-keyboard-layout-in-lxde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyboard layout problem in lubuntu or lxde</title>
+      <link>https://fahadahammed.github.io/tags/keyboard-layout-problem-in-lubuntu-or-lxde/</link>
+      <pubDate>Tue, 20 May 2014 03:13:59 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/keyboard-layout-problem-in-lubuntu-or-lxde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clean bash history</title>
+      <link>https://fahadahammed.github.io/tags/clean-bash-history/</link>
+      <pubDate>Mon, 19 May 2014 10:20:32 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/clean-bash-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is Bash ?</title>
+      <link>https://fahadahammed.github.io/tags/what-is-bash/</link>
+      <pubDate>Mon, 19 May 2014 10:20:32 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/what-is-bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>small smiley face in the bottom of wordpress site</title>
+      <link>https://fahadahammed.github.io/tags/small-smiley-face-in-the-bottom-of-wordpress-site/</link>
+      <pubDate>Tue, 13 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/small-smiley-face-in-the-bottom-of-wordpress-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress footer small smiley face</title>
+      <link>https://fahadahammed.github.io/tags/wordpress-footer-small-smiley-face/</link>
+      <pubDate>Tue, 13 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/wordpress-footer-small-smiley-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>access a folder with several user in linux</title>
+      <link>https://fahadahammed.github.io/tags/access-a-folder-with-several-user-in-linux/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/access-a-folder-with-several-user-in-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>same folder but several user</title>
+      <link>https://fahadahammed.github.io/tags/same-folder-but-several-user/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/same-folder-but-several-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>same folder but several user read write access</title>
+      <link>https://fahadahammed.github.io/tags/same-folder-but-several-user-read-write-access/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/same-folder-but-several-user-read-write-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu fodler permission for 2 or more users</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu-fodler-permission-for-2-or-more-users/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu-fodler-permission-for-2-or-more-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid</title>
+      <link>https://fahadahammed.github.io/tags/squid/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid proxy from vps</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-from-vps/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-from-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid proxy server</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-server/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squid proxy server with multiple ips</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-server-with-multiple-ips/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-server-with-multiple-ips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squid Proxy server with multiple IPs or proxy</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-server-with-multiple-ips-or-proxy/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-server-with-multiple-ips-or-proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache2 vs nodejs</title>
+      <link>https://fahadahammed.github.io/tags/apache2-vs-nodejs/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache2-vs-nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark of Ghost Blog</title>
+      <link>https://fahadahammed.github.io/tags/benchmark-of-ghost-blog/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/benchmark-of-ghost-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost Blog and its performance</title>
+      <link>https://fahadahammed.github.io/tags/ghost-blog-and-its-performance/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ghost-blog-and-its-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost Blog Traffic Handling</title>
+      <link>https://fahadahammed.github.io/tags/ghost-blog-traffic-handling/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ghost-blog-traffic-handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost vs wordpress</title>
+      <link>https://fahadahammed.github.io/tags/ghost-vs-wordpress/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ghost-vs-wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to benchmark ghost blog</title>
+      <link>https://fahadahammed.github.io/tags/how-to-benchmark-ghost-blog/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-benchmark-ghost-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install apache benchmark tool</title>
+      <link>https://fahadahammed.github.io/tags/how-to-install-apache-benchmark-tool/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-install-apache-benchmark-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs vs apache</title>
+      <link>https://fahadahammed.github.io/tags/nodejs-vs-apache/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nodejs-vs-apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install ghost blog in ubuntu with apache</title>
+      <link>https://fahadahammed.github.io/tags/how-to-install-ghost-blog-in-ubuntu-with-apache/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-install-ghost-blog-in-ubuntu-with-apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>init script of ghost blog</title>
+      <link>https://fahadahammed.github.io/tags/init-script-of-ghost-blog/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/init-script-of-ghost-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install ghost blog in lighttpd server</title>
+      <link>https://fahadahammed.github.io/tags/install-ghost-blog-in-lighttpd-server/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/install-ghost-blog-in-lighttpd-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install ghost with apache</title>
+      <link>https://fahadahammed.github.io/tags/install-ghost-with-apache/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/install-ghost-with-apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use ghost blog with mysql database</title>
+      <link>https://fahadahammed.github.io/tags/use-ghost-blog-with-mysql-database/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/use-ghost-blog-with-mysql-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun with Privacy Policy</title>
+      <link>https://fahadahammed.github.io/tags/fun-with-privacy-policy/</link>
+      <pubDate>Thu, 06 Feb 2014 02:42:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fun-with-privacy-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun with Terms of service or TOS</title>
+      <link>https://fahadahammed.github.io/tags/fun-with-terms-of-service-or-tos/</link>
+      <pubDate>Thu, 06 Feb 2014 02:42:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fun-with-terms-of-service-or-tos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy of Google and facebook</title>
+      <link>https://fahadahammed.github.io/tags/privacy-policy-of-google-and-facebook/</link>
+      <pubDate>Thu, 06 Feb 2014 02:42:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/privacy-policy-of-google-and-facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take screenshot by command in your ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/take-screenshot-by-command-in-your-ubuntu/</link>
+      <pubDate>Thu, 23 Jan 2014 16:29:33 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/take-screenshot-by-command-in-your-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take screenshot in your Debian by terminal</title>
+      <link>https://fahadahammed.github.io/tags/take-screenshot-in-your-debian-by-terminal/</link>
+      <pubDate>Thu, 23 Jan 2014 16:29:33 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/take-screenshot-in-your-debian-by-terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arch Bridge</title>
+      <link>https://fahadahammed.github.io/tags/arch-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/arch-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beam Bridge</title>
+      <link>https://fahadahammed.github.io/tags/beam-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/beam-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cable Stayed Bridge</title>
+      <link>https://fahadahammed.github.io/tags/cable-stayed-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/cable-stayed-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cantilever Bridge</title>
+      <link>https://fahadahammed.github.io/tags/cantilever-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/cantilever-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deck Bridge</title>
+      <link>https://fahadahammed.github.io/tags/deck-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/deck-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>different types of bridges</title>
+      <link>https://fahadahammed.github.io/tags/different-types-of-bridges/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/different-types-of-bridges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emi Through Bridge</title>
+      <link>https://fahadahammed.github.io/tags/emi-through-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/emi-through-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed Span Bridge</title>
+      <link>https://fahadahammed.github.io/tags/fixed-span-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fixed-span-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Girder Bridge</title>
+      <link>https://fahadahammed.github.io/tags/girder-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/girder-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moveable Span Bridge</title>
+      <link>https://fahadahammed.github.io/tags/moveable-span-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/moveable-span-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simply Supported Bridge</title>
+      <link>https://fahadahammed.github.io/tags/simply-supported-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/simply-supported-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab Bridge</title>
+      <link>https://fahadahammed.github.io/tags/slab-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/slab-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suspension Bridge</title>
+      <link>https://fahadahammed.github.io/tags/suspension-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/suspension-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Through Bridge</title>
+      <link>https://fahadahammed.github.io/tags/through-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/through-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truss Bridge</title>
+      <link>https://fahadahammed.github.io/tags/truss-bridge/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/truss-bridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>types of Bridges According to Bridg e Flow</title>
+      <link>https://fahadahammed.github.io/tags/types-of-bridges-according-to-bridg-e-flow/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/types-of-bridges-according-to-bridg-e-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>types of Bridges According to Flexibility</title>
+      <link>https://fahadahammed.github.io/tags/types-of-bridges-according-to-flexibility/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/types-of-bridges-according-to-flexibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types of Bridges According to Inter Span Relation</title>
+      <link>https://fahadahammed.github.io/tags/types-of-bridges-according-to-inter-span-relation/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/types-of-bridges-according-to-inter-span-relation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types of Bridges According to Shape</title>
+      <link>https://fahadahammed.github.io/tags/types-of-bridges-according-to-shape/</link>
+      <pubDate>Sun, 19 Jan 2014 01:49:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/types-of-bridges-according-to-shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdorshoLipi_20-07-2007.ttf</title>
+      <link>https://fahadahammed.github.io/tags/adorsholipi_20-07-2007.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/adorsholipi_20-07-2007.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>akaashnormal.ttf</title>
+      <link>https://fahadahammed.github.io/tags/akaashnormal.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/akaashnormal.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>all bangla fonts instant download for your ubuntu linuxmint netrunner kororaa</title>
+      <link>https://fahadahammed.github.io/tags/all-bangla-fonts-instant-download-for-your-ubuntu-linuxmint-netrunner-kororaa/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/all-bangla-fonts-instant-download-for-your-ubuntu-linuxmint-netrunner-kororaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AponaLohit.ttf</title>
+      <link>https://fahadahammed.github.io/tags/aponalohit.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/aponalohit.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangla fonts for kali linux</title>
+      <link>https://fahadahammed.github.io/tags/bangla-fonts-for-kali-linux/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bangla-fonts-for-kali-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangla fonts for netrunner</title>
+      <link>https://fahadahammed.github.io/tags/bangla-fonts-for-netrunner/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bangla-fonts-for-netrunner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bangla.ttf</title>
+      <link>https://fahadahammed.github.io/tags/bangla.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bangla.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BenSen.ttf</title>
+      <link>https://fahadahammed.github.io/tags/bensen.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bensen.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charu Chandan</title>
+      <link>https://fahadahammed.github.io/tags/charu-chandan/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/charu-chandan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charu chandan for ubuntu linux</title>
+      <link>https://fahadahammed.github.io/tags/charu-chandan-for-ubuntu-linux/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/charu-chandan-for-ubuntu-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charuchandan bangla font</title>
+      <link>https://fahadahammed.github.io/tags/charuchandan-bangla-font/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/charuchandan-bangla-font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get all bangla font in your Linux</title>
+      <link>https://fahadahammed.github.io/tags/get-all-bangla-font-in-your-linux/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-all-bangla-font-in-your-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get All bangla fonts</title>
+      <link>https://fahadahammed.github.io/tags/get-all-bangla-fonts/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-all-bangla-fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get Bangla fonts for Ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/get-bangla-fonts-for-ubuntu/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-bangla-fonts-for-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kalpurush.ttf</title>
+      <link>https://fahadahammed.github.io/tags/kalpurush.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/kalpurush.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kalpurush_ANSI.ttf</title>
+      <link>https://fahadahammed.github.io/tags/kalpurush_ansi.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/kalpurush_ansi.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lohit_14-04-2007.ttf</title>
+      <link>https://fahadahammed.github.io/tags/lohit_14-04-2007.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lohit_14-04-2007.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mitra.ttf</title>
+      <link>https://fahadahammed.github.io/tags/mitra.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mitra.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mukti_1.99_PR.ttf</title>
+      <link>https://fahadahammed.github.io/tags/mukti_1.99_pr.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mukti_1.99_pr.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>muktinarrow.ttf</title>
+      <link>https://fahadahammed.github.io/tags/muktinarrow.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/muktinarrow.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikosh.ttf</title>
+      <link>https://fahadahammed.github.io/tags/nikosh.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nikosh.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NikoshBAN.ttf</title>
+      <link>https://fahadahammed.github.io/tags/nikoshban.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nikoshban.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NikoshGrameen.ttf</title>
+      <link>https://fahadahammed.github.io/tags/nikoshgrameen.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nikoshgrameen.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NikoshLight.ttf</title>
+      <link>https://fahadahammed.github.io/tags/nikoshlight.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nikoshlight.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NikoshLightBan.ttf</title>
+      <link>https://fahadahammed.github.io/tags/nikoshlightban.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nikoshlightban.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noto Sans Bengali</title>
+      <link>https://fahadahammed.github.io/tags/noto-sans-bengali/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/noto-sans-bengali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Click bangla font installer ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/one-click-bangla-font-installer-ubuntu/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/one-click-bangla-font-installer-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Click font installer ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/one-click-font-installer-ubuntu/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/one-click-font-installer-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sagarnormal.ttf</title>
+      <link>https://fahadahammed.github.io/tags/sagarnormal.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/sagarnormal.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siyam Rupali ANSI.ttf</title>
+      <link>https://fahadahammed.github.io/tags/siyam-rupali-ansi.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/siyam-rupali-ansi.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SolaimanLipi_20-04-07.ttf</title>
+      <link>https://fahadahammed.github.io/tags/solaimanlipi_20-04-07.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/solaimanlipi_20-04-07.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SutonnyMJ.ttf</title>
+      <link>https://fahadahammed.github.io/tags/sutonnymj.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/sutonnymj.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vrinda.ttf</title>
+      <link>https://fahadahammed.github.io/tags/vrinda.ttf/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/vrinda.ttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to monitor vps ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-monitor-vps/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-monitor-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to use slurm to monitor vps</title>
+      <link>https://fahadahammed.github.io/tags/how-to-use-slurm-to-monitor-vps/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-use-slurm-to-monitor-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitor myu vps by htop</title>
+      <link>https://fahadahammed.github.io/tags/monitor-myu-vps-by-htop/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/monitor-myu-vps-by-htop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools to monitor my vps</title>
+      <link>https://fahadahammed.github.io/tags/tools-to-monitor-my-vps/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/tools-to-monitor-my-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vps monitoring tools</title>
+      <link>https://fahadahammed.github.io/tags/vps-monitoring-tools/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/vps-monitoring-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPV6 Neighbor Table Overflow</title>
+      <link>https://fahadahammed.github.io/tags/ipv6-neighbor-table-overflow/</link>
+      <pubDate>Sun, 12 Jan 2014 11:02:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ipv6-neighbor-table-overflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to test my vps cpu frequency ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-test-my-vps-cpu-frequency/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-test-my-vps-cpu-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to test my vps download speed ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-test-my-vps-download-speed/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-test-my-vps-download-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test my servers download speed</title>
+      <link>https://fahadahammed.github.io/tags/test-my-servers-download-speed/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/test-my-servers-download-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test my vps efficiency</title>
+      <link>https://fahadahammed.github.io/tags/test-my-vps-efficiency/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/test-my-vps-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solusvm api key php script</title>
+      <link>https://fahadahammed.github.io/tags/solusvm-api-key-php-script/</link>
+      <pubDate>Sun, 12 Jan 2014 06:53:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/solusvm-api-key-php-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solusvm api script to show vps info in a page</title>
+      <link>https://fahadahammed.github.io/tags/solusvm-api-script-to-show-vps-info-in-a-page/</link>
+      <pubDate>Sun, 12 Jan 2014 06:53:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/solusvm-api-script-to-show-vps-info-in-a-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choose best vps OS</title>
+      <link>https://fahadahammed.github.io/tags/choose-best-vps-os/</link>
+      <pubDate>Sat, 14 Dec 2013 17:59:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/choose-best-vps-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPS OS to choose</title>
+      <link>https://fahadahammed.github.io/tags/vps-os-to-choose/</link>
+      <pubDate>Sat, 14 Dec 2013 17:59:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/vps-os-to-choose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is the best VPS Operating System ?</title>
+      <link>https://fahadahammed.github.io/tags/what-is-the-best-vps-operating-system/</link>
+      <pubDate>Sat, 14 Dec 2013 17:59:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/what-is-the-best-vps-operating-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is the best VPS OS ?</title>
+      <link>https://fahadahammed.github.io/tags/what-is-the-best-vps-os/</link>
+      <pubDate>Sat, 14 Dec 2013 17:59:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/what-is-the-best-vps-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ispconfig</title>
+      <link>https://fahadahammed.github.io/tags/ispconfig/</link>
+      <pubDate>Tue, 03 Dec 2013 18:23:51 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ispconfig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ispconfig default pages</title>
+      <link>https://fahadahammed.github.io/tags/ispconfig-default-pages/</link>
+      <pubDate>Tue, 03 Dec 2013 18:23:51 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ispconfig-default-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crontab rsync</title>
+      <link>https://fahadahammed.github.io/tags/crontab-rsync/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/crontab-rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crontab ssh copy</title>
+      <link>https://fahadahammed.github.io/tags/crontab-ssh-copy/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/crontab-ssh-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to remote backup files from server by crontab without password asks</title>
+      <link>https://fahadahammed.github.io/tags/how-to-remote-backup-files-from-server-by-crontab-without-password-asks/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-remote-backup-files-from-server-by-crontab-without-password-asks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use ssh-copy-id on a non-standard port</title>
+      <link>https://fahadahammed.github.io/tags/how-to-use-ssh-copy-id-on-a-non-standard-port/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-use-ssh-copy-id-on-a-non-standard-port/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsync without password</title>
+      <link>https://fahadahammed.github.io/tags/rsync-without-password/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/rsync-without-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh without password</title>
+      <link>https://fahadahammed.github.io/tags/ssh-without-password/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-without-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh-copy-id different port</title>
+      <link>https://fahadahammed.github.io/tags/ssh-copy-id-different-port/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-copy-id-different-port/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh-copy-id on a different port</title>
+      <link>https://fahadahammed.github.io/tags/ssh-copy-id-on-a-different-port/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-copy-id-on-a-different-port/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangladesh internet gateways</title>
+      <link>https://fahadahammed.github.io/tags/bangladesh-internet-gateways/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bangladesh-internet-gateways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangladesh internet history</title>
+      <link>https://fahadahammed.github.io/tags/bangladesh-internet-history/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bangladesh-internet-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highspeed internet connection bangladesh</title>
+      <link>https://fahadahammed.github.io/tags/highspeed-internet-connection-bangladesh/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/highspeed-internet-connection-bangladesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submarine cable bangladesh</title>
+      <link>https://fahadahammed.github.io/tags/submarine-cable-bangladesh/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/submarine-cable-bangladesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submarine cable bangladesh routes</title>
+      <link>https://fahadahammed.github.io/tags/submarine-cable-bangladesh-routes/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/submarine-cable-bangladesh-routes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fstab</title>
+      <link>https://fahadahammed.github.io/tags/fstab/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/fstab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kvm</title>
+      <link>https://fahadahammed.github.io/tags/kvm/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/kvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh readonly files in server</title>
+      <link>https://fahadahammed.github.io/tags/ssh-readonly-files-in-server/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-readonly-files-in-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh readonly files to fix</title>
+      <link>https://fahadahammed.github.io/tags/ssh-readonly-files-to-fix/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssh-readonly-files-to-fix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systemrescue</title>
+      <link>https://fahadahammed.github.io/tags/systemrescue/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/systemrescue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google not loading by squid proxy server</title>
+      <link>https://fahadahammed.github.io/tags/google-not-loading-by-squid-proxy-server/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/google-not-loading-by-squid-proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to solve squid IPV6 problem</title>
+      <link>https://fahadahammed.github.io/tags/how-to-solve-squid-ipv6-problem/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-solve-squid-ipv6-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid IPV6 problem</title>
+      <link>https://fahadahammed.github.io/tags/squid-ipv6-problem/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-ipv6-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid proxy facebook not looding</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-facebook-not-looding/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-facebook-not-looding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http</title>
+      <link>https://fahadahammed.github.io/tags/http/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https</title>
+      <link>https://fahadahammed.github.io/tags/https/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx https redirect</title>
+      <link>https://fahadahammed.github.io/tags/nginx-https-redirect/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx-https-redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx vhost https</title>
+      <link>https://fahadahammed.github.io/tags/nginx-vhost-https/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/nginx-vhost-https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl with nginx</title>
+      <link>https://fahadahammed.github.io/tags/ssl-with-nginx/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssl-with-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attachment problem squirrelmail</title>
+      <link>https://fahadahammed.github.io/tags/attachment-problem-squirrelmail/</link>
+      <pubDate>Sun, 06 Oct 2013 02:49:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/attachment-problem-squirrelmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squirrelmail</title>
+      <link>https://fahadahammed.github.io/tags/squirrelmail/</link>
+      <pubDate>Sun, 06 Oct 2013 02:49:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squirrelmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squirrelmail error attachment</title>
+      <link>https://fahadahammed.github.io/tags/squirrelmail-error-attachment/</link>
+      <pubDate>Sun, 06 Oct 2013 02:49:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squirrelmail-error-attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Setup a PPTP VPN in Ubuntu Server ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-setup-a-pptp-vpn-in-ubuntu-server/</link>
+      <pubDate>Thu, 03 Oct 2013 05:46:33 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-setup-a-pptp-vpn-in-ubuntu-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pptp vpn install in ubuntu server</title>
+      <link>https://fahadahammed.github.io/tags/pptp-vpn-install-in-ubuntu-server/</link>
+      <pubDate>Thu, 03 Oct 2013 05:46:33 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/pptp-vpn-install-in-ubuntu-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pptp vpn server</title>
+      <link>https://fahadahammed.github.io/tags/pptp-vpn-server/</link>
+      <pubDate>Thu, 03 Oct 2013 05:46:33 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/pptp-vpn-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to output text file list of contents of a directory?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-output-text-file-list-of-contents-of-a-directory/</link>
+      <pubDate>Mon, 30 Sep 2013 18:05:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-output-text-file-list-of-contents-of-a-directory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List Folder Contents to Text File</title>
+      <link>https://fahadahammed.github.io/tags/list-folder-contents-to-text-file/</link>
+      <pubDate>Mon, 30 Sep 2013 18:05:44 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/list-folder-contents-to-text-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghost http to https</title>
+      <link>https://fahadahammed.github.io/tags/ghost-http-to-https/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ghost-http-to-https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https lighttpd</title>
+      <link>https://fahadahammed.github.io/tags/https-lighttpd/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/https-lighttpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lighttpd configuration for ghost blog</title>
+      <link>https://fahadahammed.github.io/tags/lighttpd-configuration-for-ghost-blog/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lighttpd-configuration-for-ghost-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lighttpd server</title>
+      <link>https://fahadahammed.github.io/tags/lighttpd-server/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lighttpd-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl lighttpd</title>
+      <link>https://fahadahammed.github.io/tags/ssl-lighttpd/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ssl-lighttpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu vps lighttpd wordpress</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu-vps-lighttpd-wordpress/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu-vps-lighttpd-wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get swap in digital ocean droplet</title>
+      <link>https://fahadahammed.github.io/tags/get-swap-in-digital-ocean-droplet/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/get-swap-in-digital-ocean-droplet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap file</title>
+      <link>https://fahadahammed.github.io/tags/swap-file/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap in DO</title>
+      <link>https://fahadahammed.github.io/tags/swap-in-do/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-in-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap in droplets</title>
+      <link>https://fahadahammed.github.io/tags/swap-in-droplets/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-in-droplets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap in linux vps</title>
+      <link>https://fahadahammed.github.io/tags/swap-in-linux-vps/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-in-linux-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap space</title>
+      <link>https://fahadahammed.github.io/tags/swap-space/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap space with a file in ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/swap-space-with-a-file-in-ubuntu/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/swap-space-with-a-file-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lighttpd vhost</title>
+      <link>https://fahadahammed.github.io/tags/lighttpd-vhost/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lighttpd-vhost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lighttpd wordpress</title>
+      <link>https://fahadahammed.github.io/tags/lighttpd-wordpress/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/lighttpd-wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql php5 lighttpd ubuntu wordpress debian</title>
+      <link>https://fahadahammed.github.io/tags/mysql-php5-lighttpd-ubuntu-wordpress-debian/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/mysql-php5-lighttpd-ubuntu-wordpress-debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu 12.04 lighttpd server with multiple wordpress</title>
+      <link>https://fahadahammed.github.io/tags/ubuntu-12.04-lighttpd-server-with-multiple-wordpress/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ubuntu-12.04-lighttpd-server-with-multiple-wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache php upload file size</title>
+      <link>https://fahadahammed.github.io/tags/apache-php-upload-file-size/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/apache-php-upload-file-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change The Maximum Upload File Size in Php</title>
+      <link>https://fahadahammed.github.io/tags/change-the-maximum-upload-file-size-in-php/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/change-the-maximum-upload-file-size-in-php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>max upload file size php</title>
+      <link>https://fahadahammed.github.io/tags/max-upload-file-size-php/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/max-upload-file-size-php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php upload file size</title>
+      <link>https://fahadahammed.github.io/tags/php-upload-file-size/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/php-upload-file-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upload bigger sized file by changing php.ini</title>
+      <link>https://fahadahammed.github.io/tags/upload-bigger-sized-file-by-changing-php.ini/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/upload-bigger-sized-file-by-changing-php.ini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>where is php.ini ?</title>
+      <link>https://fahadahammed.github.io/tags/where-is-php.ini/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/where-is-php.ini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hatirjheel road marking</title>
+      <link>https://fahadahammed.github.io/tags/hatirjheel-road-marking/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/hatirjheel-road-marking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hatirjheel street lighting</title>
+      <link>https://fahadahammed.github.io/tags/hatirjheel-street-lighting/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/hatirjheel-street-lighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>road marking in bangladesh</title>
+      <link>https://fahadahammed.github.io/tags/road-marking-in-bangladesh/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/road-marking-in-bangladesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>road marking in dhaka</title>
+      <link>https://fahadahammed.github.io/tags/road-marking-in-dhaka/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/road-marking-in-dhaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>road markings</title>
+      <link>https://fahadahammed.github.io/tags/road-markings/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/road-markings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road_Markings_and_Street_Lighting</title>
+      <link>https://fahadahammed.github.io/tags/road_markings_and_street_lighting/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/road_markings_and_street_lighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street lighting about</title>
+      <link>https://fahadahammed.github.io/tags/street-lighting-about/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/street-lighting-about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street lighting in bangladesh</title>
+      <link>https://fahadahammed.github.io/tags/street-lighting-in-bangladesh/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/street-lighting-in-bangladesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street lighting in dhaka</title>
+      <link>https://fahadahammed.github.io/tags/street-lighting-in-dhaka/</link>
+      <pubDate>Fri, 30 Aug 2013 17:23:11 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/street-lighting-in-dhaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>download limit</title>
+      <link>https://fahadahammed.github.io/tags/download-limit/</link>
+      <pubDate>Tue, 20 Aug 2013 01:12:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/download-limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limit squid proxy users download upload</title>
+      <link>https://fahadahammed.github.io/tags/limit-squid-proxy-users-download-upload/</link>
+      <pubDate>Tue, 20 Aug 2013 01:12:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/limit-squid-proxy-users-download-upload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upload limit</title>
+      <link>https://fahadahammed.github.io/tags/upload-limit/</link>
+      <pubDate>Tue, 20 Aug 2013 01:12:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/upload-limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ban domain access in squid proxy server</title>
+      <link>https://fahadahammed.github.io/tags/ban-domain-access-in-squid-proxy-server/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ban-domain-access-in-squid-proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ban facebook by squid proxy</title>
+      <link>https://fahadahammed.github.io/tags/ban-facebook-by-squid-proxy/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ban-facebook-by-squid-proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ban google by squid proxy</title>
+      <link>https://fahadahammed.github.io/tags/ban-google-by-squid-proxy/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ban-google-by-squid-proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bann domain access in squid proxy server</title>
+      <link>https://fahadahammed.github.io/tags/bann-domain-access-in-squid-proxy-server/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bann-domain-access-in-squid-proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking Domain</title>
+      <link>https://fahadahammed.github.io/tags/blocking-domain/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/blocking-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking IP</title>
+      <link>https://fahadahammed.github.io/tags/blocking-ip/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/blocking-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking Time to Access Websites in Squid Proxy Server !</title>
+      <link>https://fahadahammed.github.io/tags/blocking-time-to-access-websites-in-squid-proxy-server/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/blocking-time-to-access-websites-in-squid-proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxy vps</title>
+      <link>https://fahadahammed.github.io/tags/proxy-vps/</link>
+      <pubDate>Tue, 06 Aug 2013 10:40:48 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/proxy-vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid proxy server with user and password</title>
+      <link>https://fahadahammed.github.io/tags/squid-proxy-server-with-user-and-password/</link>
+      <pubDate>Tue, 06 Aug 2013 10:40:48 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-proxy-server-with-user-and-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squid with user and password</title>
+      <link>https://fahadahammed.github.io/tags/squid-with-user-and-password/</link>
+      <pubDate>Mon, 08 Jul 2013 20:40:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squid-with-user-and-password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>civil engineering</title>
+      <link>https://fahadahammed.github.io/tags/civil-engineering/</link>
+      <pubDate>Fri, 14 Jun 2013 14:05:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/civil-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>civil engineering softwares list</title>
+      <link>https://fahadahammed.github.io/tags/civil-engineering-softwares-list/</link>
+      <pubDate>Fri, 14 Jun 2013 14:05:56 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/civil-engineering-softwares-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bundle css</title>
+      <link>https://fahadahammed.github.io/tags/bundle-css/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bundle-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bundle css in wordpress to load faster</title>
+      <link>https://fahadahammed.github.io/tags/bundle-css-in-wordpress-to-load-faster/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/bundle-css-in-wordpress-to-load-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>combine css file to one</title>
+      <link>https://fahadahammed.github.io/tags/combine-css-file-to-one/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/combine-css-file-to-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>combine css files to reduce request</title>
+      <link>https://fahadahammed.github.io/tags/combine-css-files-to-reduce-request/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/combine-css-files-to-reduce-request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faster webpage by bundling css</title>
+      <link>https://fahadahammed.github.io/tags/faster-webpage-by-bundling-css/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/faster-webpage-by-bundling-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>load webpages faster</title>
+      <link>https://fahadahammed.github.io/tags/load-webpages-faster/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/load-webpages-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimize webpage by combining css files</title>
+      <link>https://fahadahammed.github.io/tags/optimize-webpage-by-combining-css-files/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/optimize-webpage-by-combining-css-files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Browser Caching with htaccess</title>
+      <link>https://fahadahammed.github.io/tags/browser-caching-with-htaccess/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/browser-caching-with-htaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caching files by htaccess</title>
+      <link>https://fahadahammed.github.io/tags/caching-files-by-htaccess/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/caching-files-by-htaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enable php extension expires</title>
+      <link>https://fahadahammed.github.io/tags/enable-php-extension-expires/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/enable-php-extension-expires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enable php extension header</title>
+      <link>https://fahadahammed.github.io/tags/enable-php-extension-header/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/enable-php-extension-header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enable php extension rewrite</title>
+      <link>https://fahadahammed.github.io/tags/enable-php-extension-rewrite/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/enable-php-extension-rewrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speedup with htaccess caching</title>
+      <link>https://fahadahammed.github.io/tags/speedup-with-htaccess-caching/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/speedup-with-htaccess-caching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>file search from terminal ubuntu</title>
+      <link>https://fahadahammed.github.io/tags/file-search-from-terminal-ubuntu/</link>
+      <pubDate>Sun, 05 May 2013 05:16:18 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/file-search-from-terminal-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to find a file or folder from terminal in linux ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-find-a-file-or-folder-from-terminal-in-linux/</link>
+      <pubDate>Sun, 05 May 2013 05:16:18 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-find-a-file-or-folder-from-terminal-in-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serach a file or directory from terminal</title>
+      <link>https://fahadahammed.github.io/tags/serach-a-file-or-directory-from-terminal/</link>
+      <pubDate>Sun, 05 May 2013 05:16:18 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/serach-a-file-or-directory-from-terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cache website with varnish</title>
+      <link>https://fahadahammed.github.io/tags/cache-website-with-varnish/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/cache-website-with-varnish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caching with varnish</title>
+      <link>https://fahadahammed.github.io/tags/caching-with-varnish/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/caching-with-varnish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cashing with varnish</title>
+      <link>https://fahadahammed.github.io/tags/cashing-with-varnish/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/cashing-with-varnish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>varnish caching</title>
+      <link>https://fahadahammed.github.io/tags/varnish-caching/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/varnish-caching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varnish Cashing</title>
+      <link>https://fahadahammed.github.io/tags/varnish-cashing/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/varnish-cashing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>varnish vcl to cache</title>
+      <link>https://fahadahammed.github.io/tags/varnish-vcl-to-cache/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/varnish-vcl-to-cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>block ip</title>
+      <link>https://fahadahammed.github.io/tags/block-ip/</link>
+      <pubDate>Fri, 08 Feb 2013 11:01:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/block-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>block ip by htaccess in apache server</title>
+      <link>https://fahadahammed.github.io/tags/block-ip-by-htaccess-in-apache-server/</link>
+      <pubDate>Fri, 08 Feb 2013 11:01:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/block-ip-by-htaccess-in-apache-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>htacces</title>
+      <link>https://fahadahammed.github.io/tags/htacces/</link>
+      <pubDate>Fri, 08 Feb 2013 11:01:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/htacces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipblock</title>
+      <link>https://fahadahammed.github.io/tags/ipblock/</link>
+      <pubDate>Fri, 08 Feb 2013 11:01:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/ipblock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to test my vps I/O Speed ?</title>
+      <link>https://fahadahammed.github.io/tags/how-to-test-my-vps-i/o-speed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/how-to-test-my-vps-i/o-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux File/Folder Search from Terminal</title>
+      <link>https://fahadahammed.github.io/tags/linux-file/folder-search-from-terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/linux-file/folder-search-from-terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadowsocks setup on vps ipv6/v4 NAT or alternative method to bypass GFW of China</title>
+      <link>https://fahadahammed.github.io/tags/shadowsocks-setup-on-vps-ipv6/v4-nat-or-alternative-method-to-bypass-gfw-of-china/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/shadowsocks-setup-on-vps-ipv6/v4-nat-or-alternative-method-to-bypass-gfw-of-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single click ping test of Vultrs all locations to deploy.</title>
+      <link>https://fahadahammed.github.io/tags/single-click-ping-test-of-vultrs-all-locations-to-deploy./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/single-click-ping-test-of-vultrs-all-locations-to-deploy./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SquirrelMail Error - Could not move/copy file. File not attached</title>
+      <link>https://fahadahammed.github.io/tags/squirrelmail-error-could-not-move/copy-file.-file-not-attached/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/squirrelmail-error-could-not-move/copy-file.-file-not-attached/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vps I/O check by a test</title>
+      <link>https://fahadahammed.github.io/tags/vps-i/o-check-by-a-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/tags/vps-i/o-check-by-a-test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

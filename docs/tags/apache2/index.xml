@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apache2 on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/apache2/</link>
+    <description>Recent content in apache2 on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2014 07:41:06 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/apache2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change Websites Default Folder to Another Folder in Apache</title>
+      <link>https://fahadahammed.github.io/change-websites-default-folder-to-another-folder-in-apache/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/change-websites-default-folder-to-another-folder-in-apache/</guid>
+      <description>&lt;p&gt;Apache is the most used server. It is used to serve more than half of all active websites. It will be very helpful to understand Apache. Understanding the configuration of virtual host of Apache is important as sometime it will be a tough job to do. I will show you how to set default folder of a website other than root directory of Apache.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

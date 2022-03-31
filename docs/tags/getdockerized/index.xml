@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getdockerized on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/getdockerized/</link>
+    <description>Recent content in getdockerized on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Mar 2021 17:23:28 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/getdockerized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GetDockerized: An Initiative to Learn Docker as Deep as Possible, Once Again</title>
+      <link>https://fahadahammed.github.io/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</link>
+      <pubDate>Tue, 16 Mar 2021 17:23:28 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</guid>
+      <description>Docker is one of the most wonderful tool for development scenario. It is very important now a days. I did have knowledge in this, but that seems scattered knowledge. Thus, I wanted to learn it as through as possible and share it here and in github with a repo name of GetDockerized: https://github.com/fahadahammed/GetDockerizedHope to learn a lot and will be able to focus properly.</description>
+    </item>
+    
+  </channel>
+</rss>

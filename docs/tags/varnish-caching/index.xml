@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>varnish caching on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/varnish-caching/</link>
+    <description>Recent content in varnish caching on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2013 15:52:23 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/varnish-caching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caching with Varnish</title>
+      <link>https://fahadahammed.github.io/caching-with-varnish/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/caching-with-varnish/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Varnish&lt;/strong&gt; is an HTTP accelerator designed for content-heavy dynamic web sites. In contrast to other web accelerators, such as Squid, which began life as a client-side cache, or Apache and nginx, which are primarily origin servers, Varnish was designed as an HTTP accelerator. Varnish is focused exclusively on HTTP, unlike other proxy servers that often support FTP, SMTP and other network protocols.&lt;/p&gt;
+&lt;p&gt;Here , I will explain how to get varnish in front of apache2 or accelerate apache2 with varnish .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encrypt file via gpg on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/encrypt-file-via-gpg/</link>
+    <description>Recent content in encrypt file via gpg on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Aug 2014 02:36:49 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/encrypt-file-via-gpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encrypt Any Files in Linux</title>
+      <link>https://fahadahammed.github.io/encrypt-any-files-in-linux/</link>
+      <pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/encrypt-any-files-in-linux/</guid>
+      <description>&lt;p&gt;I have been trying to encrypt files and folders lately. It is fun but useful. You can encrypt any file which can take several years to decrypt for a hacker. That “Several” is not less. According to recent super computer “K Computer” which is the fastest can calculate 8,200,000,000,000,000 (8.2 quadrillion) calculations per second. Lets see how many seconds would take to decrypt an encrypted file by the way i am showing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

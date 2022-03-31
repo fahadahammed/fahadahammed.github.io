@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>enable php extension expires on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/enable-php-extension-expires/</link>
+    <description>Recent content in enable php extension expires on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2013 01:20:01 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/enable-php-extension-expires/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browser Caching with htaccess</title>
+      <link>https://fahadahammed.github.io/browser-caching-with-htaccess/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/browser-caching-with-htaccess/</guid>
+      <description>&lt;p&gt;Browser caching is a good idea to make/feel your site speedy . Your sites visitors will find it much speedier after first visit . If you test your page in pingdom and google speed analysis tool you will see a recommendation there to enable caching . That is why i am sharing this .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

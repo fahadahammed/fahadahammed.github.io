@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>same folder but several user read write access on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/same-folder-but-several-user-read-write-access/</link>
+    <description>Recent content in same folder but several user read write access on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 May 2014 17:32:19 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/same-folder-but-several-user-read-write-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dual User Permission at Same Folder in Linux</title>
+      <link>https://fahadahammed.github.io/dual-user-permission-at-same-folder-in-linux/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/dual-user-permission-at-same-folder-in-linux/</guid>
+      <description>&lt;p&gt;It is a pain to handle folder permission for new linux users or VPS users. Even some Pro-Linux users also face this problem. However, I will explain here how to give two users to read-write access of a same folder.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

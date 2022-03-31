@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to solve squid IPV6 problem on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/how-to-solve-squid-ipv6-problem/</link>
+    <description>Recent content in How to solve squid IPV6 problem on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2013 09:30:50 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/how-to-solve-squid-ipv6-problem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solve Google,Facebook etc site Loading Problem in Squid Proxy</title>
+      <link>https://fahadahammed.github.io/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</guid>
+      <description>&lt;p&gt;If you see that your newly created Squid proxy server can’t access Google, Facebook and other sites then you are right place to get the solution. Actually this problem arises when your ISP have no IPV6 for you. And Google,Facebook type giant sites has IPV6. So Squid just route you to access by IPV6 whether you have or not. As you have no IPV6 , you are facing problem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

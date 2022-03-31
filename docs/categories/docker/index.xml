@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/categories/docker/</link>
+    <description>Recent content in Docker on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2022 15:00:00 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore InfluxDB: Part 1</title>
+      <link>https://fahadahammed.github.io/explore-influxdb-part-1/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/explore-influxdb-part-1/</guid>
+      <description>&lt;p&gt;I have been trying to manage time to explore InfluxDB for observability. This article is one of many about InfluxDB and Telegraf. I will cover basic installation here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</title>
+      <link>https://fahadahammed.github.io/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</guid>
+      <description>&lt;p&gt;Containerization gives us many benefits from packaging to distribution and others. Thus, Docker is widely used as a containerization tool which is designed for running specific tasks and processes, not for hosting operating systems or like other virtualization tools like VMWare, VirtualBox etc. You create a container to serve a single unit task. Once it completes the given task, it stops. The container life-cycle depends on the ongoing process inside of it. Once the process stops,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development Environment with Docker Compose</title>
+      <link>https://fahadahammed.github.io/development-environment-with-docker-compose/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/development-environment-with-docker-compose/</guid>
+      <description>&lt;p&gt;There are a lot of tools I need to work with. Installing some tools in my workstation and bloating the system is not an option with limited memory capacity, specially in MacBook Air M1 with 8GB of ram. So, I am using docker when using those tools. The day to day life depends on these DB tools –&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GetDockerized: An Initiative to Learn Docker as Deep as Possible, Once Again</title>
+      <link>https://fahadahammed.github.io/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</link>
+      <pubDate>Tue, 16 Mar 2021 17:23:28 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</guid>
+      <description>Docker is one of the most wonderful tool for development scenario. It is very important now a days. I did have knowledge in this, but that seems scattered knowledge. Thus, I wanted to learn it as through as possible and share it here and in github with a repo name of GetDockerized: https://github.com/fahadahammed/GetDockerizedHope to learn a lot and will be able to focus properly.</description>
+    </item>
+    
+  </channel>
+</rss>

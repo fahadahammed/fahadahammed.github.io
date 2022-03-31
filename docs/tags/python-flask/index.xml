@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python flask on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/python-flask/</link>
+    <description>Recent content in python flask on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Sep 2021 11:15:10 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/python-flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to run Python Flask Application?</title>
+      <link>https://fahadahammed.github.io/how-to-run-python-flask-application/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/how-to-run-python-flask-application/</guid>
+      <description>&lt;p&gt;I mostly use Python Flask when I need to develop a Web App or API.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Why? Because it is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lightweight&lt;/li&gt;
+&lt;li&gt;Very Flexible&lt;/li&gt;
+&lt;li&gt;Micro-Service Friendly&lt;/li&gt;
+&lt;li&gt;Fast Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are one of the main reasons I choose Flask. But mostly I love to code with Flask. There are so many ways to run flask applications. I will write some of them here with code examples.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

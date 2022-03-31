@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php upload file size on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/php-upload-file-size/</link>
+    <description>Recent content in php upload file size on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2013 02:42:57 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/php-upload-file-size/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change The Maximum Upload File Size in Php</title>
+      <link>https://fahadahammed.github.io/change-the-maximum-upload-file-size-in-php/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/change-the-maximum-upload-file-size-in-php/</guid>
+      <description>&lt;p&gt;This is annoying to get &lt;strong&gt;file exceeds the max size allowed&lt;/strong&gt; when you try for uploading files. How can you be able to upload bigger files without any caution or error ? We have to find &lt;strong&gt;php.ini&lt;/strong&gt; file from your system.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

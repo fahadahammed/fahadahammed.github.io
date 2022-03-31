@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bundle css on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/bundle-css/</link>
+    <description>Recent content in bundle css on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2013 17:46:57 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/bundle-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bundle CSS to Load Page Faster</title>
+      <link>https://fahadahammed.github.io/bundle-css-to-load-page-faster/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/bundle-css-to-load-page-faster/</guid>
+      <description>&lt;p&gt;A test with a simple HTML page over a DSL connection shows that one big stylesheet or css of 50 KB can speed up load time by factor 2 compared to five stylesheets that are 10 KB each in size:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 Stylesheets (10KB each): 1100ms&lt;/li&gt;
+&lt;li&gt;1 Stylesheet (50KB): 500ms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So , How to make them one without breaking or editing them ? I am going to show you how to do this .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

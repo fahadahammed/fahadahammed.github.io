@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>custom google sheet function on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/custom-google-sheet-function/</link>
+    <description>Recent content in custom google sheet function on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Feb 2022 08:59:55 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/custom-google-sheet-function/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Count Characters in a Google Sheet</title>
+      <link>https://fahadahammed.github.io/count-characters-in-a-google-sheet/</link>
+      <pubDate>Fri, 18 Feb 2022 08:59:55 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/count-characters-in-a-google-sheet/</guid>
+      <description>&lt;p&gt;I was trying explore some data in Google Sheet and stumble upon a unique problem. There were several columns and rows of data containing strings. I wanted to count specific string.&lt;/p&gt;
+&lt;p&gt;I wanted to find out how many “aD” in whole set.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

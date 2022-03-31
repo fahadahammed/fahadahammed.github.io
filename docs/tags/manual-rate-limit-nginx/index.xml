@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manual rate limit nginx on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/manual-rate-limit-nginx/</link>
+    <description>Recent content in manual rate limit nginx on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2017 18:44:46 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/manual-rate-limit-nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to request limit with nginx ?</title>
+      <link>https://fahadahammed.github.io/how-to-request-limit-with-nginx/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/how-to-request-limit-with-nginx/</guid>
+      <description>&lt;p&gt;You might somehow face a huge traffic on your site which is not legitimate at all and kind of DOS. If you can identify the traffic which eventually lessen the site performance by the &lt;strong&gt;Basic HTTP Floods&lt;/strong&gt; DOS, you can save yourself from being affected by mild DOS attack. I will show you how can lessen the chance of being easily affected by those attacks.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

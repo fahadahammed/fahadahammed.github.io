@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ramdisk on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/ramdisk/</link>
+    <description>Recent content in ramdisk on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 18:04:45 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/ramdisk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create a ramdisk?</title>
+      <link>https://fahadahammed.github.io/how-to-create-a-ramdisk/</link>
+      <pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/how-to-create-a-ramdisk/</guid>
+      <description>&lt;p&gt;Whether you have SSD with NVME Protocol or good old HDD, It is not going to make you feel superior than your Random Access Memory or RAM.&lt;/p&gt;
+&lt;p&gt;By creating a &lt;strong&gt;ramdisk&lt;/strong&gt;, you can use your unused memory as a super fast disk space and work with it. I do need to use &lt;strong&gt;nginx&lt;/strong&gt; and for caching, I always go to &lt;strong&gt;tmpfs&lt;/strong&gt; which is filesystem type that typically uses ram. How do I create one?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

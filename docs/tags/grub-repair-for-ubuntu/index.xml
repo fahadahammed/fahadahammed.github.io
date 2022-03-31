@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grub repair for ubuntu on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/grub-repair-for-ubuntu/</link>
+    <description>Recent content in grub repair for ubuntu on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2015 14:11:58 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/grub-repair-for-ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Get Ubuntu Back after installing Windows ?</title>
+      <link>https://fahadahammed.github.io/how-to-get-ubuntu-back-after-installing-windows/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/how-to-get-ubuntu-back-after-installing-windows/</guid>
+      <description>&lt;p&gt;Whatever you say against Ubuntu, you can’t just make it less popular. It is the most popular Linux distribution. Many companies rely on this distribution. I personally use it on my laptop and in my servers. Normally people use windows, and when it comes to Linux it becomes a whole other matter. If someone use Ubuntu but later he wanted to install install latest windows or old alongside Ubuntu, he may face problem as loosing Ubuntu. That is what i am gong to explain “Ubuntu Recover Procedure”.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

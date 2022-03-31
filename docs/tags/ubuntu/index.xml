@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2013 11:44:19 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Read Only By “fstab” and Rescue It</title>
+      <link>https://fahadahammed.github.io/server-read-only-by-fstab-and-rescue-it/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/server-read-only-by-fstab-and-rescue-it/</guid>
+      <description>&lt;p&gt;As you are reading this post i can assume you are the victim of server system read-only. It happens when you messed up your fstab. But you can’t re-edit the /etc/fstab file as your system is in read-only state now. So what to do ? You need a&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

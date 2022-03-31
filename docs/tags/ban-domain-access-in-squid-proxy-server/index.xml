@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ban domain access in squid proxy server on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/ban-domain-access-in-squid-proxy-server/</link>
+    <description>Recent content in ban domain access in squid proxy server on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2013 08:13:31 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/ban-domain-access-in-squid-proxy-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blocking IP,Domain,Time to Access Websites in Squid Proxy Server !</title>
+      <link>https://fahadahammed.github.io/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/</guid>
+      <description>&lt;p&gt;We can control website or ip to access or accessed by squid proxy server . We can set timely access rule or some ip range to acccess the server or also can block some website or ip for a range of ip or for  some limited time .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ban domain access in squid proxy server</title>
+      <link>https://fahadahammed.github.io/ban-domain-access-in-squid-proxy-server/</link>
+      <pubDate>Wed, 10 Jul 2013 08:46:21 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/ban-domain-access-in-squid-proxy-server/</guid>
+      <description>&lt;p&gt;Some times we need to control internet users in public hotspot or wifi or also school-college-university network . Anyone can control domains accessed by squid proxy by this tutorial .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Squid Proxy Server in Ubuntu</title>
+      <link>https://fahadahammed.github.io/installing-squid-proxy-server-in-ubuntu/</link>
+      <pubDate>Mon, 15 Apr 2013 13:28:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/installing-squid-proxy-server-in-ubuntu/</guid>
+      <description>&lt;p&gt;Log in on Ubuntu Server, then type command below to Install squid :&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

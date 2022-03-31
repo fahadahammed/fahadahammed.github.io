@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>charuchandan bangla font on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/charuchandan-bangla-font/</link>
+    <description>Recent content in charuchandan bangla font on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2014 13:37:06 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/charuchandan-bangla-font/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single Command to Download and Install All Bangla Fonts in Your Linux</title>
+      <link>https://fahadahammed.github.io/single-command-to-download-and-install-all-bangla-fonts-in-your-linux/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/single-command-to-download-and-install-all-bangla-fonts-in-your-linux/</guid>
+      <description>&lt;p&gt;I have created a script which will download and install 70 Bangla fonts(with variations of them) without searching. Just run this script in your Linux based PC/Laptops terminal and get all Bangla fonts instantly without hassle.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

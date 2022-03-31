@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxy Server on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/categories/proxy-server/</link>
+    <description>Recent content in Proxy Server on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Apr 2014 02:56:16 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/categories/proxy-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Squid proxy Server with multiple IP</title>
+      <link>https://fahadahammed.github.io/squid-proxy-server-with-multiple-ip/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/squid-proxy-server-with-multiple-ip/</guid>
+      <description>&lt;p&gt;My dear readers. I am here again for your help with squid proxy server. I will show you today how to use squid server to work with several IP in a vps/system. This is very useful if you do Craigslist work or something like that. Proxy is interesting. Squid proxy is like a Swiss Army Knife which has numerous feature to make you comfortable with proxy.&lt;/p&gt;
+&lt;p&gt;Here are two ways of configuring squid’s proxy to use the other IPs assigned to your server (besides the default one).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solve Google,Facebook etc site Loading Problem in Squid Proxy</title>
+      <link>https://fahadahammed.github.io/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</guid>
+      <description>&lt;p&gt;If you see that your newly created Squid proxy server can’t access Google, Facebook and other sites then you are right place to get the solution. Actually this problem arises when your ISP have no IPV6 for you. And Google,Facebook type giant sites has IPV6. So Squid just route you to access by IPV6 whether you have or not. As you have no IPV6 , you are facing problem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Squid Proxy Server Download/Upload Limit</title>
+      <link>https://fahadahammed.github.io/squid-proxy-server-downloadupload-limit/</link>
+      <pubDate>Tue, 20 Aug 2013 01:12:13 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/squid-proxy-server-downloadupload-limit/</guid>
+      <description>&lt;p&gt;We can limit the download/upload limit for particular user/ip range/time . This will help to not to create high load in the server during ofice time or some particular time or maybe some users .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blocking IP,Domain,Time to Access Websites in Squid Proxy Server !</title>
+      <link>https://fahadahammed.github.io/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/</link>
+      <pubDate>Mon, 19 Aug 2013 08:13:31 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/blocking-ipdomaintime-to-access-websites-in-squid-proxy-server/</guid>
+      <description>&lt;p&gt;We can control website or ip to access or accessed by squid proxy server . We can set timely access rule or some ip range to acccess the server or also can block some website or ip for a range of ip or for  some limited time .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Squid Proxy Server Working or Not ?</title>
+      <link>https://fahadahammed.github.io/squid-proxy-server-working-or-not/</link>
+      <pubDate>Tue, 06 Aug 2013 10:40:48 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/squid-proxy-server-working-or-not/</guid>
+      <description>&lt;p&gt;If you have completed your installation of squid proxy server then you can see how your proxy server working and how it is handling caching or contents .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ban domain access in squid proxy server</title>
+      <link>https://fahadahammed.github.io/ban-domain-access-in-squid-proxy-server/</link>
+      <pubDate>Wed, 10 Jul 2013 08:46:21 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/ban-domain-access-in-squid-proxy-server/</guid>
+      <description>&lt;p&gt;Some times we need to control internet users in public hotspot or wifi or also school-college-university network . Anyone can control domains accessed by squid proxy by this tutorial .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Squid Proxy Server with User &amp; Password</title>
+      <link>https://fahadahammed.github.io/installing-squid-proxy-server-with-user-password/</link>
+      <pubDate>Mon, 08 Jul 2013 20:40:07 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/installing-squid-proxy-server-with-user-password/</guid>
+      <description>&lt;p&gt;If you work remotely, or have to handle corporate files on the road, then chances are you’ve used a specific type of proxy and may not even be aware of it. In fact, proxies are used by workers all over the world in the form of a VPN. A virtual private network is one specific type of proxy which provides you with the ability to work remotely and securely.So , here i will help you to install and configure squid proxy server in your vps or server .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Squid Proxy Server in Ubuntu</title>
+      <link>https://fahadahammed.github.io/installing-squid-proxy-server-in-ubuntu/</link>
+      <pubDate>Mon, 15 Apr 2013 13:28:50 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/installing-squid-proxy-server-in-ubuntu/</guid>
+      <description>&lt;p&gt;Log in on Ubuntu Server, then type command below to Install squid :&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

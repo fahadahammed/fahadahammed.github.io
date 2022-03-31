@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nginx vhost https on Thoughts, Views &amp; More...</title>
+    <link>https://fahadahammed.github.io/tags/nginx-vhost-https/</link>
+    <description>Recent content in nginx vhost https on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2013 06:41:42 +0000</lastBuildDate><atom:link href="https://fahadahammed.github.io/tags/nginx-vhost-https/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Redirect ‘http’ to ‘https’ in NGINX ?</title>
+      <link>https://fahadahammed.github.io/how-to-redirect-http-to-https-in-nginx/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://fahadahammed.github.io/how-to-redirect-http-to-https-in-nginx/</guid>
+      <description>&lt;p&gt;Here we will learn how to redirect all http request to https in nginx server. Assuming you have success fully installed ssl and can access https manually.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
