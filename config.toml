@@ -1,5 +1,5 @@
 title = "Thoughts, Views & More..."
-baseURL = "https://www.fahadahammed.com"
+baseURL = "https://fahadahammed.github.io"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
