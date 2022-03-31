@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to test my vps download speed ? on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/how-to-test-my-vps-download-speed/</link>
+    <description>Recent content in How to test my vps download speed ? on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2014 07:22:44 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/how-to-test-my-vps-download-speed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell Script to Test Your VPS or Servers Efficiency</title>
+      <link>https://www.fahadahammed.com/shell-script-to-test-your-vps-or-servers-efficiency/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/shell-script-to-test-your-vps-or-servers-efficiency/</guid>
+      <description>&lt;p&gt;Server lover like me and you will always try our best to get the full performance from our VPS/Server. Here is a script to show you some interesting thing about your server including download speed from popular Data Center, cpu model, frequency, ram, swap, Uptime I/O Speed etc.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

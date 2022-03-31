@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker-compose on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/docker-compose/</link>
+    <description>Recent content in docker-compose on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2022 15:00:00 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore InfluxDB: Part 1</title>
+      <link>https://www.fahadahammed.com/explore-influxdb-part-1/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/explore-influxdb-part-1/</guid>
+      <description>&lt;p&gt;I have been trying to manage time to explore InfluxDB for observability. This article is one of many about InfluxDB and Telegraf. I will cover basic installation here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development Environment with Docker Compose</title>
+      <link>https://www.fahadahammed.com/development-environment-with-docker-compose/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/development-environment-with-docker-compose/</guid>
+      <description>&lt;p&gt;There are a lot of tools I need to work with. Installing some tools in my workstation and bloating the system is not an option with limited memory capacity, specially in MacBook Air M1 with 8GB of ram. So, I am using docker when using those tools. The day to day life depends on these DB tools –&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka in Docker Container and Implement it’s Functionalities with Python</title>
+      <link>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</guid>
+      <description>&lt;p&gt;According to the website, Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;In this post, I am going to share a basic way to start using Apache Kafka with python.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

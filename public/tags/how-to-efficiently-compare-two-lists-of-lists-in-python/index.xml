@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to efficiently compare two lists of lists in python? on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/how-to-efficiently-compare-two-lists-of-lists-in-python/</link>
+    <description>Recent content in How to efficiently compare two lists of lists in python? on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 09:06:03 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/how-to-efficiently-compare-two-lists-of-lists-in-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding an Efficient Solution on Reading and Comparing CSV files</title>
+      <link>https://www.fahadahammed.com/finding-an-efficient-solution-on-reading-and-comparing-csv-files/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/finding-an-efficient-solution-on-reading-and-comparing-csv-files/</guid>
+      <description>&lt;p&gt;I have always worked with Linux Systems and thus Bash was my go to tool for some specific tasks. But now I am much more aware with Python than Bash as it does give me better grasp on things. I am not saying that for server scripting, Bash can not do some tasks. It can be used in a vast area of things to solve. But I am now comfortable with Python more.&lt;/p&gt;
+&lt;p&gt;Recently, I did stumble upon of a task that was related to comparing two huge CSV files.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swap in linux vps on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/swap-in-linux-vps/</link>
+    <description>Recent content in swap in linux vps on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2013 03:24:45 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/swap-in-linux-vps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding swap with a File in Your VPS</title>
+      <link>https://www.fahadahammed.com/adding-swap-with-a-file-in-your-vps/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/adding-swap-with-a-file-in-your-vps/</guid>
+      <description>&lt;p&gt;If you don’t have any additional disks, you can create a file somewhere on your filesystem, and use that file for swap space. Normally some vps providers don’t give swap. For those who has that type of vps will need this tutorial to get a swap to faster website or vps.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

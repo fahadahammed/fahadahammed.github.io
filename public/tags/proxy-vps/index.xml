@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proxy vps on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/proxy-vps/</link>
+    <description>Recent content in proxy vps on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2013 10:40:48 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/proxy-vps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Squid Proxy Server Working or Not ?</title>
+      <link>https://www.fahadahammed.com/squid-proxy-server-working-or-not/</link>
+      <pubDate>Tue, 06 Aug 2013 10:40:48 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/squid-proxy-server-working-or-not/</guid>
+      <description>&lt;p&gt;If you have completed your installation of squid proxy server then you can see how your proxy server working and how it is handling caching or contents .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Squid Proxy Server with User &amp; Password</title>
+      <link>https://www.fahadahammed.com/installing-squid-proxy-server-with-user-password/</link>
+      <pubDate>Mon, 08 Jul 2013 20:40:07 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/installing-squid-proxy-server-with-user-password/</guid>
+      <description>&lt;p&gt;If you work remotely, or have to handle corporate files on the road, then chances are you’ve used a specific type of proxy and may not even be aware of it. In fact, proxies are used by workers all over the world in the form of a VPN. A virtual private network is one specific type of proxy which provides you with the ability to work remotely and securely.So , here i will help you to install and configure squid proxy server in your vps or server .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Squid Proxy Server in Ubuntu</title>
+      <link>https://www.fahadahammed.com/installing-squid-proxy-server-in-ubuntu/</link>
+      <pubDate>Mon, 15 Apr 2013 13:28:50 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/installing-squid-proxy-server-in-ubuntu/</guid>
+      <description>&lt;p&gt;Log in on Ubuntu Server, then type command below to Install squid :&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>change root password of servers using ansible on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/change-root-password-of-servers-using-ansible/</link>
+    <description>Recent content in change root password of servers using ansible on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Feb 2022 14:49:16 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/change-root-password-of-servers-using-ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible to change user password</title>
+      <link>https://www.fahadahammed.com/ansible-to-change-user-password/</link>
+      <pubDate>Wed, 09 Feb 2022 14:49:16 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ansible-to-change-user-password/</guid>
+      <description>&lt;p&gt;One of the most basic things to do in a Linux Server. We can use just &lt;code&gt;passwd &amp;lt;user&amp;gt;&lt;/code&gt; to change the password of a user. But to do that in 100s of server can be a tricky one. Ansible is the savior on that perspective.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

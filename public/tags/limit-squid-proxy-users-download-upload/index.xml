@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limit squid proxy users download upload on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/limit-squid-proxy-users-download-upload/</link>
+    <description>Recent content in Limit squid proxy users download upload on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2013 01:12:13 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/limit-squid-proxy-users-download-upload/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Squid Proxy Server Download/Upload Limit</title>
+      <link>https://www.fahadahammed.com/squid-proxy-server-downloadupload-limit/</link>
+      <pubDate>Tue, 20 Aug 2013 01:12:13 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/squid-proxy-server-downloadupload-limit/</guid>
+      <description>&lt;p&gt;We can limit the download/upload limit for particular user/ip range/time . This will help to not to create high load in the server during ofice time or some particular time or maybe some users .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>List Folder Contents to Text File on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/list-folder-contents-to-text-file/</link>
+    <description>Recent content in List Folder Contents to Text File on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2013 18:05:44 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/list-folder-contents-to-text-file/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to output text file list of contents of a directory?</title>
+      <link>https://www.fahadahammed.com/how-to-output-text-file-list-of-contents-of-a-directory/</link>
+      <pubDate>Mon, 30 Sep 2013 18:05:44 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-output-text-file-list-of-contents-of-a-directory/</guid>
+      <description>&lt;p&gt;If you have a folder with huge contents and you want to get a list from them what will you do ? Write down one by one ? 😛&lt;/p&gt;
+&lt;p&gt;In Linux based distributions you can get a list by a simple command.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

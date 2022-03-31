@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>batch script to ping an ip or website on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/batch-script-to-ping-an-ip-or-website/</link>
+    <description>Recent content in batch script to ping an ip or website on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Aug 2014 08:31:03 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/batch-script-to-ping-an-ip-or-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Batch Script to Put Ping Output in a Text File</title>
+      <link>https://www.fahadahammed.com/windows-batch-script-to-put-ping-output-in-a-text-file/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/windows-batch-script-to-put-ping-output-in-a-text-file/</guid>
+      <description>&lt;p&gt;In DOS, OS/2, and also Microsoft Windows, batch file is the name given to a type of script file, a text file containing a series of commands to be executed by the command interpreter. A batch file may contain any command the interpreter accepts interactively at the command prompt. A batch file may also have constructs (IF, GOTO, Labels, CALL, etc.) that enable conditional branching and looping within the batch file. Recently i was playing with it and got a cool script while playing with ping command which will output ping results in a text file in Desktop.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

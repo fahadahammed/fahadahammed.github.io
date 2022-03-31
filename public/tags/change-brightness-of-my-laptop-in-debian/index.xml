@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Change Brightness of My Laptop in Debian on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/change-brightness-of-my-laptop-in-debian/</link>
+    <description>Recent content in Change Brightness of My Laptop in Debian on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Oct 2014 08:42:46 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/change-brightness-of-my-laptop-in-debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Solve Any Linux Distributions Brightness Problem ?</title>
+      <link>https://www.fahadahammed.com/how-to-solve-any-linux-distributions-brightness-problem/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-solve-any-linux-distributions-brightness-problem/</guid>
+      <description>&lt;p&gt;I have &lt;strong&gt;Acer Aspire 5733&lt;/strong&gt; and i couldn’t change brightness of my laptop. This is annoying and painful. I have tried many things to do this but couldn’t solve it as there is no linux graphics driver. At last i have found a solution and i have written an script which will be helpful for you.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

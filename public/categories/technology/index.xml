@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/categories/technology/</link>
+    <description>Recent content in Technology on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 19:16:04 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RaspberryPi with DHT22 Sensor for Humidity and Temperature Data with InfluxDB</title>
+      <link>https://www.fahadahammed.com/raspberrypi-with-dht22-sensor-for-humidity-and-temperature-data-with-influxdb/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/raspberrypi-with-dht22-sensor-for-humidity-and-temperature-data-with-influxdb/</guid>
+      <description>&lt;p&gt;I have been playing with RaspberryPI for a while. There are several project I tried to do with RaspberryPI. These boards play a significant role in my home lab for different experiments like Docker Private Repository, Media Server, Ad Blocker with pi-hole, Secure Proxy for anonymity, secure network access with VPN, Home Security Camera/Surveillance, Data Collector or scraper etc. But This time, I did buy a “DHT-22” sensor for monitoring room temperature and humidity. Humidity is my main concern and wanted to see how it fluctuates.&lt;/p&gt;
+&lt;p&gt;So, my main plan was to get a DHT-22 to connect properly&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Count Characters in a Google Sheet</title>
+      <link>https://www.fahadahammed.com/count-characters-in-a-google-sheet/</link>
+      <pubDate>Fri, 18 Feb 2022 08:59:55 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/count-characters-in-a-google-sheet/</guid>
+      <description>&lt;p&gt;I was trying explore some data in Google Sheet and stumble upon a unique problem. There were several columns and rows of data containing strings. I wanted to count specific string.&lt;/p&gt;
+&lt;p&gt;I wanted to find out how many “aD” in whole set.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ansible to change user password</title>
+      <link>https://www.fahadahammed.com/ansible-to-change-user-password/</link>
+      <pubDate>Wed, 09 Feb 2022 14:49:16 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ansible-to-change-user-password/</guid>
+      <description>&lt;p&gt;One of the most basic things to do in a Linux Server. We can use just &lt;code&gt;passwd &amp;lt;user&amp;gt;&lt;/code&gt; to change the password of a user. But to do that in 100s of server can be a tricky one. Ansible is the savior on that perspective.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finding an Efficient Solution on Reading and Comparing CSV files</title>
+      <link>https://www.fahadahammed.com/finding-an-efficient-solution-on-reading-and-comparing-csv-files/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/finding-an-efficient-solution-on-reading-and-comparing-csv-files/</guid>
+      <description>&lt;p&gt;I have always worked with Linux Systems and thus Bash was my go to tool for some specific tasks. But now I am much more aware with Python than Bash as it does give me better grasp on things. I am not saying that for server scripting, Bash can not do some tasks. It can be used in a vast area of things to solve. But I am now comfortable with Python more.&lt;/p&gt;
+&lt;p&gt;Recently, I did stumble upon of a task that was related to comparing two huge CSV files.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explore InfluxDB: Part 1</title>
+      <link>https://www.fahadahammed.com/explore-influxdb-part-1/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/explore-influxdb-part-1/</guid>
+      <description>&lt;p&gt;I have been trying to manage time to explore InfluxDB for observability. This article is one of many about InfluxDB and Telegraf. I will cover basic installation here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SSH Config and Ansible Host Generator and Why I am doing it this way?</title>
+      <link>https://www.fahadahammed.com/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</link>
+      <pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</guid>
+      <description>&lt;p&gt;I am recently playing the role as an SRE and that is why I have to deal with a lot of servers. Not only cloud once or clusters but also bare metals as well as Virtual Machines. For more systematic environment preparation, I have Gitlab pipeline. But for basic tasks like change the config on demand or check a specific directory or search something or any other unpredictable or repeated tasks, I need Ansible for better grasp from my local machine or Bastion server. So, what do I have to do?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an entry to the .ssh/config file&lt;/li&gt;
+&lt;li&gt;Create an entry ansible host file as inventory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Repeated tasks? For me, yes. I needed to manage these. So, created a python script&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Getting habit to use TMUX</title>
+      <link>https://www.fahadahammed.com/getting-habit-to-use-tmux/</link>
+      <pubDate>Mon, 24 Jan 2022 13:41:22 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/getting-habit-to-use-tmux/</guid>
+      <description>&lt;p&gt;Recently been practicing &lt;strong&gt;TMUX&lt;/strong&gt; for my day to day tasks. To be honest, I am late. I should have get used to it earlier. It is much more robust and well sorted than the other &lt;strong&gt;terminal multiplexers&lt;/strong&gt; such as &lt;strong&gt;screen&lt;/strong&gt;. How am I adapting?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</title>
+      <link>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</guid>
+      <description>&lt;p&gt;Containerization gives us many benefits from packaging to distribution and others. Thus, Docker is widely used as a containerization tool which is designed for running specific tasks and processes, not for hosting operating systems or like other virtualization tools like VMWare, VirtualBox etc. You create a container to serve a single unit task. Once it completes the given task, it stops. The container life-cycle depends on the ongoing process inside of it. Once the process stops,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effective use of Redis with Python and Connection Pool</title>
+      <link>https://www.fahadahammed.com/effective-use-of-redis-with-python-and-connection-pool/</link>
+      <pubDate>Sat, 09 Oct 2021 06:19:57 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/effective-use-of-redis-with-python-and-connection-pool/</guid>
+      <description>&lt;p&gt;I have been working with redis and python for sometime. It is fun to play with python and redis. There are so many things can be solved by redis.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Session persistency&lt;/li&gt;
+&lt;li&gt;Caching&lt;/li&gt;
+&lt;li&gt;Volatile Datastore&lt;/li&gt;
+&lt;li&gt;Job or Message Queue&lt;/li&gt;
+&lt;li&gt;Search&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And many more. But recently I was thinking about using it as main database. I am not yet sure what kind of problem I might face or what things to optimize when it is about scalability or reliability. I will for sure share my experience.&lt;/p&gt;
+&lt;p&gt;Here I want to talk about –&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to create a ramdisk?</title>
+      <link>https://www.fahadahammed.com/how-to-create-a-ramdisk/</link>
+      <pubDate>Thu, 16 Sep 2021 18:04:45 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-create-a-ramdisk/</guid>
+      <description>&lt;p&gt;Whether you have SSD with NVME Protocol or good old HDD, It is not going to make you feel superior than your Random Access Memory or RAM.&lt;/p&gt;
+&lt;p&gt;By creating a &lt;strong&gt;ramdisk&lt;/strong&gt;, you can use your unused memory as a super fast disk space and work with it. I do need to use &lt;strong&gt;nginx&lt;/strong&gt; and for caching, I always go to &lt;strong&gt;tmpfs&lt;/strong&gt; which is filesystem type that typically uses ram. How do I create one?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to run Python Flask Application?</title>
+      <link>https://www.fahadahammed.com/how-to-run-python-flask-application/</link>
+      <pubDate>Sat, 11 Sep 2021 11:15:10 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-run-python-flask-application/</guid>
+      <description>&lt;p&gt;I mostly use Python Flask when I need to develop a Web App or API.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Why? Because it is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lightweight&lt;/li&gt;
+&lt;li&gt;Very Flexible&lt;/li&gt;
+&lt;li&gt;Micro-Service Friendly&lt;/li&gt;
+&lt;li&gt;Fast Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are one of the main reasons I choose Flask. But mostly I love to code with Flask. There are so many ways to run flask applications. I will write some of them here with code examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development Environment with Docker Compose</title>
+      <link>https://www.fahadahammed.com/development-environment-with-docker-compose/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/development-environment-with-docker-compose/</guid>
+      <description>&lt;p&gt;There are a lot of tools I need to work with. Installing some tools in my workstation and bloating the system is not an option with limited memory capacity, specially in MacBook Air M1 with 8GB of ram. So, I am using docker when using those tools. The day to day life depends on these DB tools –&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka in Docker Container and Implement it’s Functionalities with Python</title>
+      <link>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</guid>
+      <description>&lt;p&gt;According to the website, Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;In this post, I am going to share a basic way to start using Apache Kafka with python.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi and Docker Registry</title>
+      <link>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</guid>
+      <description>&lt;p&gt;Recently I have been using a &lt;strong&gt;Raspberry Pi 3B+&lt;/strong&gt; bought from a classified advertisement site called &lt;!-- raw HTML omitted --&gt;Bikroy.com&lt;!-- raw HTML omitted --&gt;. A student wanted to sell this, as his final college project was done. It was cheaper with an acrylic casing and a fan. However, I wanted to use this Pi for several pet projects. Initially I did install &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pi-Hole&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; for network wide &lt;strong&gt;adblocker&lt;/strong&gt; and along with &lt;strong&gt;samba&lt;/strong&gt; with a spare portable hard disk. It was working OK. No extra pressure in this 1GB ram Pi. I thought Why not give it a little bit more pressure?&lt;/p&gt;
+&lt;p&gt;Thus, I planned to install docker registry in it for my &lt;strong&gt;“local private docker hub”&lt;/strong&gt; type of need. Let me share what I had to do.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multi line Log Parser in Python</title>
+      <link>https://www.fahadahammed.com/multi-line-log-parser-in-python/</link>
+      <pubDate>Tue, 12 Jan 2021 15:59:19 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/multi-line-log-parser-in-python/</guid>
+      <description>&lt;p&gt;So, I have a log file that is not single line log. It is kind of java stack trace. What I needed to do is read those log files and create some actions depending on them. I could use already built tools. But I thought why not just do this as simply as printing strings.&lt;/p&gt;
+&lt;p&gt;This is an example of the log format I wanted to play with. It seems too simple to pile up the Filebeats or elastic stack.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some quick and useful git commands</title>
+      <link>https://www.fahadahammed.com/some-quick-and-useful-git-commands/</link>
+      <pubDate>Sat, 26 Dec 2020 17:03:27 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/some-quick-and-useful-git-commands/</guid>
+      <description>&lt;p&gt;Using git is somehow easier when you just stick into normal workflow or working all alone in a project. Also it is easier as there are many GUI available. But there are some possibility on falling into critical situations where GUI may not be the right tool to stick with. I will share some situations here and the right commands which will save you from doing useless commits.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some coding practice with Json, Itertools and Lambda in Python</title>
+      <link>https://www.fahadahammed.com/some-coding-practice-with-json-itertools-and-lambda-in-python/</link>
+      <pubDate>Sat, 19 Dec 2020 18:39:24 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/some-coding-practice-with-json-itertools-and-lambda-in-python/</guid>
+      <description>&lt;p&gt;I enjoy coding and solving problems. But as I go forward, I find myself in a sea of unknowns. Thus I decided to learn as much as possible to be confident. So, I am learning even the simplest it seems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Date Query in MongoDB</title>
+      <link>https://www.fahadahammed.com/date-query-in-mongodb/</link>
+      <pubDate>Thu, 22 Oct 2020 07:34:52 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/date-query-in-mongodb/</guid>
+      <description>You have some data in MongoDB with date object in them. You want to delete data from certain date, then here it is:-</description>
+    </item>
+    
+    <item>
+      <title>Some git tips to survive in versioning world – Part 1</title>
+      <link>https://www.fahadahammed.com/some-git-tips-to-survive-in-versioning-world-part-1/</link>
+      <pubDate>Thu, 07 Nov 2019 09:06:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/some-git-tips-to-survive-in-versioning-world-part-1/</guid>
+      <description>&lt;p&gt;I am gonna talk about Git. We all somehow use git and thus it is important for us to better use &lt;strong&gt;.gitignore&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nginx to white-list ip or ask for password</title>
+      <link>https://www.fahadahammed.com/nginx-to-white-list-ip-or-ask-for-password/</link>
+      <pubDate>Mon, 14 May 2018 06:21:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/nginx-to-white-list-ip-or-ask-for-password/</guid>
+      <description>&lt;p&gt;Let, you want to protect a page or any site in nginx by certain IP addresses access only. How would you do it in nginx? I will discuss some cases here about the situation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>লিনাক্স এর কনসোল বা টার্মিনাল এ ফাইল কিভাবে খুজে পাবো?</title>
+      <link>https://www.fahadahammed.com/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B2-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%96%E0%A7%8B%E0%A6%9C%E0%A6%BE/</link>
+      <pubDate>Sun, 04 Feb 2018 09:18:01 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B2-%E0%A6%8F-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%96%E0%A7%8B%E0%A6%9C%E0%A6%BE/</guid>
+      <description>&lt;p&gt;লিনাক্স এর টার্মিনাল থেকে ফাইল খুজাটা প্রায়ই জরুরী হয়ে উঠে। বিশেষ করে যারা হেডলেস লিনাক্স সার্ভার ব্যবহার করেন তাদের তো এটা প্রতিদিন এর টাস্ক হয়ে উঠে। আমি সহজ এবং প্রতিদিন এর উপকারি কিছু কমান্ড&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to request limit with nginx ?</title>
+      <link>https://www.fahadahammed.com/how-to-request-limit-with-nginx/</link>
+      <pubDate>Fri, 29 Sep 2017 18:44:46 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-request-limit-with-nginx/</guid>
+      <description>&lt;p&gt;You might somehow face a huge traffic on your site which is not legitimate at all and kind of DOS. If you can identify the traffic which eventually lessen the site performance by the &lt;strong&gt;Basic HTTP Floods&lt;/strong&gt; DOS, you can save yourself from being affected by mild DOS attack. I will show you how can lessen the chance of being easily affected by those attacks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Get Ubuntu Back after installing Windows ?</title>
+      <link>https://www.fahadahammed.com/how-to-get-ubuntu-back-after-installing-windows/</link>
+      <pubDate>Wed, 15 Apr 2015 14:11:58 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-get-ubuntu-back-after-installing-windows/</guid>
+      <description>&lt;p&gt;Whatever you say against Ubuntu, you can’t just make it less popular. It is the most popular Linux distribution. Many companies rely on this distribution. I personally use it on my laptop and in my servers. Normally people use windows, and when it comes to Linux it becomes a whole other matter. If someone use Ubuntu but later he wanted to install install latest windows or old alongside Ubuntu, he may face problem as loosing Ubuntu. That is what i am gong to explain “Ubuntu Recover Procedure”.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Nginx and Configure Load Balancing for Heavy Traffic</title>
+      <link>https://www.fahadahammed.com/install-nginx-and-configure-load-balancing-for-heavy-traffic/</link>
+      <pubDate>Sat, 14 Mar 2015 12:00:12 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/install-nginx-and-configure-load-balancing-for-heavy-traffic/</guid>
+      <description>&lt;p&gt;Load Balancing is the mechanism which will balance the load upon server towards several servers which ultimately can handle heavy traffic. I will show you the basic configurations with normal HTML based webpages only but it will help you to build for PHP based websites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Shadowsocks Tunnel Proxy and Bypass Firewall</title>
+      <link>https://www.fahadahammed.com/install-shadowsocks-tunnel-proxy-and-bypass-firewall/</link>
+      <pubDate>Tue, 17 Feb 2015 14:53:44 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/install-shadowsocks-tunnel-proxy-and-bypass-firewall/</guid>
+      <description>&lt;p&gt;I am going to explain how you can bypass any firewall and become anonymous with the steps to install shadowsocks and then i will also show you how you can connect to one server/location but will show your public ip another. Shadowsocks is very fast tunnel proxy which can bypass the most dangerous firewall like “&lt;strong&gt;Great Firewall of China&lt;/strong&gt;“.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How To Solve Any Linux Distributions Brightness Problem ?</title>
+      <link>https://www.fahadahammed.com/how-to-solve-any-linux-distributions-brightness-problem/</link>
+      <pubDate>Wed, 22 Oct 2014 08:42:46 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-solve-any-linux-distributions-brightness-problem/</guid>
+      <description>&lt;p&gt;I have &lt;strong&gt;Acer Aspire 5733&lt;/strong&gt; and i couldn’t change brightness of my laptop. This is annoying and painful. I have tried many things to do this but couldn’t solve it as there is no linux graphics driver. At last i have found a solution and i have written an script which will be helpful for you.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Encrypt Any Files in Linux</title>
+      <link>https://www.fahadahammed.com/encrypt-any-files-in-linux/</link>
+      <pubDate>Wed, 27 Aug 2014 02:36:49 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/encrypt-any-files-in-linux/</guid>
+      <description>&lt;p&gt;I have been trying to encrypt files and folders lately. It is fun but useful. You can encrypt any file which can take several years to decrypt for a hacker. That “Several” is not less. According to recent super computer “K Computer” which is the fastest can calculate 8,200,000,000,000,000 (8.2 quadrillion) calculations per second. Lets see how many seconds would take to decrypt an encrypted file by the way i am showing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux Server Monitoring with Munin</title>
+      <link>https://www.fahadahammed.com/linux-server-monitoring-with-munin/</link>
+      <pubDate>Thu, 21 Aug 2014 16:51:27 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/linux-server-monitoring-with-munin/</guid>
+      <description>&lt;p&gt;This article is about showing how to monitor any server or remote server by a tool named &lt;strong&gt;munin&lt;/strong&gt;. Munin the monitoring tool surveys all your computers and remembers what it saw. It presents all the information in graphs through a web interface. Its emphasis is on plug and play capabilities. I will show you how to set it up with a remote server too.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows Batch Script to Put Ping Output in a Text File</title>
+      <link>https://www.fahadahammed.com/windows-batch-script-to-put-ping-output-in-a-text-file/</link>
+      <pubDate>Sat, 16 Aug 2014 08:31:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/windows-batch-script-to-put-ping-output-in-a-text-file/</guid>
+      <description>&lt;p&gt;In DOS, OS/2, and also Microsoft Windows, batch file is the name given to a type of script file, a text file containing a series of commands to be executed by the command interpreter. A batch file may contain any command the interpreter accepts interactively at the command prompt. A batch file may also have constructs (IF, GOTO, Labels, CALL, etc.) that enable conditional branching and looping within the batch file. Recently i was playing with it and got a cool script while playing with ping command which will output ping results in a text file in Desktop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shell Script to Generate Fibonacci Series Iteratively and Recursively</title>
+      <link>https://www.fahadahammed.com/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/</guid>
+      <description>&lt;p&gt;By definition, the first two Fibonacci numbers are 0 and 1, and each subsequent number is the sum of the previous two. I will show you two shell script to generate Fibonacci series recursively and iteratively. Also you will get idea about the application of Fibonacci series/numbers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transfer Files by Rsync</title>
+      <link>https://www.fahadahammed.com/transfer-files-by-rsync/</link>
+      <pubDate>Tue, 05 Aug 2014 15:41:39 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/transfer-files-by-rsync/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;rsync&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; is a free software computer program for Unix and Linux like systems which synchronizes files and directories from one location to another while minimizing data transfer using delta encoding when appropriate. An important feature of rsync not found in most similar programs/protocols is that the mirroring takes place with only one transmission in each direction. This tool is very appropriate to keep backup or setup mirror service. In this article you will get some clear idea.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Change Websites Default Folder to Another Folder in Apache</title>
+      <link>https://www.fahadahammed.com/change-websites-default-folder-to-another-folder-in-apache/</link>
+      <pubDate>Tue, 05 Aug 2014 07:41:06 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/change-websites-default-folder-to-another-folder-in-apache/</guid>
+      <description>&lt;p&gt;Apache is the most used server. It is used to serve more than half of all active websites. It will be very helpful to understand Apache. Understanding the configuration of virtual host of Apache is important as sometime it will be a tough job to do. I will show you how to set default folder of a website other than root directory of Apache.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resetting Administrator Password in Windows 2008</title>
+      <link>https://www.fahadahammed.com/resetting-administrator-password-in-windows-2008/</link>
+      <pubDate>Fri, 20 Jun 2014 13:18:28 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/resetting-administrator-password-in-windows-2008/</guid>
+      <description>&lt;p&gt;I have normally worked with linux servers but sometimes i used Windows too. I have faced password forgetting moments and then after searching and trying i have got the solution to reset Windows Server 2008 R2.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Add and Switch Keyboard Layout in LXDE ?</title>
+      <link>https://www.fahadahammed.com/how-to-add-and-switch-keyboard-layout-in-lxde/</link>
+      <pubDate>Tue, 20 May 2014 03:13:59 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-add-and-switch-keyboard-layout-in-lxde/</guid>
+      <description>&lt;p&gt;Lubuntu is good. Actually LXDE is good. I love its simplicity. One tricky thing is though &lt;strong&gt;how to add a keyboard layout on Lubuntu/LXDE&lt;/strong&gt; (if you didn’t specify an additional language at installation).  To configure keyboard layouts a big flaw of LXDE. So here is what I did to add a new keyboard layout.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clear Bash History Completely?</title>
+      <link>https://www.fahadahammed.com/clear-bash-history-completely/</link>
+      <pubDate>Mon, 19 May 2014 10:20:32 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/clear-bash-history-completely/</guid>
+      <description>&lt;p&gt;If you have linux server or linux operating system(distribution) in your pc then you are using bash. Bash is a command processor and Unix Shell, typically run in a text window, allowing the user to type commands which cause actions. Bash can also read commands from a file, called a script. Bash keep records of executing commands and all. Sometimes if you want to clean all your records you can follow this.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Get Rid of WordPress Website Footer Smiley Face</title>
+      <link>https://www.fahadahammed.com/get-rid-of-wordpress-website-footer-smiley-face/</link>
+      <pubDate>Tue, 13 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/get-rid-of-wordpress-website-footer-smiley-face/</guid>
+      <description>&lt;p&gt;Me and also many people use WordPress to run website or blog. What is the most fascinating thing of WordPress ? Obviously its resources. It has so many plugins and themes that can make a simple WordPress website act like a super-platform. I am here to show you how to remove little smiley face on the bottom of Wordpres sites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dual User Permission at Same Folder in Linux</title>
+      <link>https://www.fahadahammed.com/dual-user-permission-at-same-folder-in-linux/</link>
+      <pubDate>Sat, 10 May 2014 17:32:19 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/dual-user-permission-at-same-folder-in-linux/</guid>
+      <description>&lt;p&gt;It is a pain to handle folder permission for new linux users or VPS users. Even some Pro-Linux users also face this problem. However, I will explain here how to give two users to read-write access of a same folder.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Squid proxy Server with multiple IP</title>
+      <link>https://www.fahadahammed.com/squid-proxy-server-with-multiple-ip/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/squid-proxy-server-with-multiple-ip/</guid>
+      <description>&lt;p&gt;My dear readers. I am here again for your help with squid proxy server. I will show you today how to use squid server to work with several IP in a vps/system. This is very useful if you do Craigslist work or something like that. Proxy is interesting. Squid proxy is like a Swiss Army Knife which has numerous feature to make you comfortable with proxy.&lt;/p&gt;
+&lt;p&gt;Here are two ways of configuring squid’s proxy to use the other IPs assigned to your server (besides the default one).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Benchmark of Ghost Blog Against WordPress</title>
+      <link>https://www.fahadahammed.com/benchmark-of-ghost-blog-against-wordpress/</link>
+      <pubDate>Mon, 24 Mar 2014 23:55:09 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/benchmark-of-ghost-blog-against-wordpress/</guid>
+      <description>&lt;p&gt;This week i was trying to be familiar with node and ghost Blog. Launched a blog in my VPS. I will say Over whelming performance. As you can see i have posted how to install it with Apache server. I will now show you some benchmark report by Apache Benchmark tool. Lets see.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Easy installation of Ghost Blog</title>
+      <link>https://www.fahadahammed.com/easy-installation-of-ghost-blog/</link>
+      <pubDate>Mon, 24 Feb 2014 03:35:29 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/easy-installation-of-ghost-blog/</guid>
+      <description>&lt;p&gt;“Ghost Blog” is a blogging platform. Just blog. If you are into blogging and sharing your thoughts and nothing else, then you will definitely looking for this one. Very lightweight and super stylish with simplicity look. It is a platform where you will be motivated to write. But it is tricky to install. I will make it simple here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some Eye Catching Terms of Service and Privacy Policy</title>
+      <link>https://www.fahadahammed.com/some-eye-catching-terms-of-service-and-privacy-policy/</link>
+      <pubDate>Thu, 06 Feb 2014 02:42:56 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/some-eye-catching-terms-of-service-and-privacy-policy/</guid>
+      <description>&lt;p&gt;We do use internet everyday for mailing,sharing thoughts,working,uploading files etc in several sites like Facebook,Twitter,Tumblr,Gmail etc. They are free. But we have to agree with their Terms of service and Privacy Policies. No one reads those i guess 🙂 . But i have found some interesting lines there. I am collecting those lines for fun.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Take Screenshot By Command or Terminal in Linux Based Machine</title>
+      <link>https://www.fahadahammed.com/take-screenshot-by-command-or-terminal-in-linux-based-machine/</link>
+      <pubDate>Thu, 23 Jan 2014 16:29:33 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/take-screenshot-by-command-or-terminal-in-linux-based-machine/</guid>
+      <description>&lt;p&gt;Taking screenshot is now a days very important. This is used for many purpose like writing blog post, sharing problem facing in the system and much more things. There are many tools to take shot of your desktop but here i will show you how to take screenshot by terminal or command line interface in linux based machine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single Command to Download and Install All Bangla Fonts in Your Linux</title>
+      <link>https://www.fahadahammed.com/single-command-to-download-and-install-all-bangla-fonts-in-your-linux/</link>
+      <pubDate>Wed, 15 Jan 2014 13:37:06 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/single-command-to-download-and-install-all-bangla-fonts-in-your-linux/</guid>
+      <description>&lt;p&gt;I have created a script which will download and install 70 Bangla fonts(with variations of them) without searching. Just run this script in your Linux based PC/Laptops terminal and get all Bangla fonts instantly without hassle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Tools You Should Install in Your VPS</title>
+      <link>https://www.fahadahammed.com/monitoring-tools-you-should-install-in-your-vps/</link>
+      <pubDate>Tue, 14 Jan 2014 04:41:50 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/monitoring-tools-you-should-install-in-your-vps/</guid>
+      <description>&lt;p&gt;Monitoring server is very important. You can prevent many unwanted things by monitoring regularly. I am assuming that you own a VPS as you are reading this post. You are new happy owner of your personal VPS. So why don’t you take a look about some monitoring tools?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solve IPV6 Neighbor Table Overflow</title>
+      <link>https://www.fahadahammed.com/solve-ipv6-neighbor-table-overflow/</link>
+      <pubDate>Sun, 12 Jan 2014 11:02:31 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/solve-ipv6-neighbor-table-overflow/</guid>
+      <description>&lt;p&gt;There are sometimes you will get some errors in /var/log/syslog.log saying IPV6 Neighbor Table Overflow and which are really annoying. For fixing this you should follow this.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shell Script to Test Your VPS or Servers Efficiency</title>
+      <link>https://www.fahadahammed.com/shell-script-to-test-your-vps-or-servers-efficiency/</link>
+      <pubDate>Sun, 12 Jan 2014 07:22:44 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/shell-script-to-test-your-vps-or-servers-efficiency/</guid>
+      <description>&lt;p&gt;Server lover like me and you will always try our best to get the full performance from our VPS/Server. Here is a script to show you some interesting thing about your server including download speed from popular Data Center, cpu model, frequency, ram, swap, Uptime I/O Speed etc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SolusVM API PHP Script</title>
+      <link>https://www.fahadahammed.com/solusvm-api-php-script/</link>
+      <pubDate>Sun, 12 Jan 2014 06:53:23 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/solusvm-api-php-script/</guid>
+      <description>&lt;p&gt;The client API is a http based API that allows you and your clients to interact directly with a virtual server with security and ease. The client API can be disabled at any time and access is only granted with a key and hash on a per vps basis.Currently available options are:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Best VPS OS</title>
+      <link>https://www.fahadahammed.com/best-vps-os/</link>
+      <pubDate>Sat, 14 Dec 2013 17:59:07 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/best-vps-os/</guid>
+      <description>&lt;p&gt;Hello VPS user. Obviously you are or intend to a VPS user as you are reading this. I will share my own experience with you about choosing OS for your VPS. There are plenty of Operating system that can give you pleasure handling the VPS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISPConfig: Where are the templates for the config files and default pages?</title>
+      <link>https://www.fahadahammed.com/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/</link>
+      <pubDate>Tue, 03 Dec 2013 18:23:51 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ispconfig-where-are-the-templates-for-the-config-files-and-default-pages/</guid>
+      <description>&lt;p&gt;IspConfig is a very powerful free server control panel with many features. It has a interesting feature as it generate error pages and default index of each domain. Which you can easily edit and get all future generated pages by your choice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Crontab Rsync without Password</title>
+      <link>https://www.fahadahammed.com/crontab-rsync-without-password/</link>
+      <pubDate>Sun, 01 Dec 2013 10:51:24 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/crontab-rsync-without-password/</guid>
+      <description>&lt;p&gt;Perform rsync asks for password on the remote server before starting the transfer. Sometimes we need to run rsync by crontab where it is not possible to give password.  Here is a solution to use crontab to execute rsync without any password.&lt;/p&gt;
+&lt;p&gt;This is helpful when you are scheduling a cron job for automatic backup using rsync.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bangladesh Submarine Cable Network</title>
+      <link>https://www.fahadahammed.com/bangladesh-submarine-cable-network/</link>
+      <pubDate>Tue, 26 Nov 2013 14:17:38 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/bangladesh-submarine-cable-network/</guid>
+      <description>&lt;p&gt;Bangladesh decided to connect to world wide web in late 1995 by VSAT or Very Small Aperture Terminal. On June 4, 1996 the VSAT base data circuit was commissioned for the first time in the country. Upon VSAT commissioning, internet connectivity was established &amp;amp; its services were made available to the public. After internet was launched, the June 1996 National polls results were made available to the netizens of the world using World Wide Web. This was the first ever usage event of its kind in Bangladesh. The effort was appreciated in many corners especially among the Bangladeshis living abroad.&lt;/p&gt;
+&lt;p&gt;After the introduction of Internet,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Server Read Only By “fstab” and Rescue It</title>
+      <link>https://www.fahadahammed.com/server-read-only-by-fstab-and-rescue-it/</link>
+      <pubDate>Fri, 15 Nov 2013 11:44:19 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/server-read-only-by-fstab-and-rescue-it/</guid>
+      <description>&lt;p&gt;As you are reading this post i can assume you are the victim of server system read-only. It happens when you messed up your fstab. But you can’t re-edit the /etc/fstab file as your system is in read-only state now. So what to do ? You need a&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solve Google,Facebook etc site Loading Problem in Squid Proxy</title>
+      <link>https://www.fahadahammed.com/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</link>
+      <pubDate>Fri, 01 Nov 2013 09:30:50 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/solve-google-facebook-etc-site-loading-problem-in-squid-proxy/</guid>
+      <description>&lt;p&gt;If you see that your newly created Squid proxy server can’t access Google, Facebook and other sites then you are right place to get the solution. Actually this problem arises when your ISP have no IPV6 for you. And Google,Facebook type giant sites has IPV6. So Squid just route you to access by IPV6 whether you have or not. As you have no IPV6 , you are facing problem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Redirect ‘http’ to ‘https’ in NGINX ?</title>
+      <link>https://www.fahadahammed.com/how-to-redirect-http-to-https-in-nginx/</link>
+      <pubDate>Sun, 27 Oct 2013 06:41:42 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-redirect-http-to-https-in-nginx/</guid>
+      <description>&lt;p&gt;Here we will learn how to redirect all http request to https in nginx server. Assuming you have success fully installed ssl and can access https manually.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Squirrelmail Error With Ispconfig</title>
+      <link>https://www.fahadahammed.com/squirrelmail-error-with-ispconfig/</link>
+      <pubDate>Sun, 06 Oct 2013 02:49:06 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/squirrelmail-error-with-ispconfig/</guid>
+      <description>&lt;p&gt;If you have installed ispconfig by following &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://www.howtoforge.com/&#34;&gt;http://www.howtoforge.com/&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;  then you have also installed squirrel mail. You may face attachment problem, Saying data directory is not writable. Here is the solution.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How To Setup a PPTP VPN in Ubuntu Server ?</title>
+      <link>https://www.fahadahammed.com/how-to-setup-a-pptp-vpn-in-ubuntu-server/</link>
+      <pubDate>Thu, 03 Oct 2013 05:46:33 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-setup-a-pptp-vpn-in-ubuntu-server/</guid>
+      <description>&lt;p&gt;VPN secures your computer’s internet connection to guarantee that all of the data you’re sending and receiving is encrypted and secured from prying eyes. You can get cheap vpn from many vpn providers. But i will show you how to get a private VPN maintained by yourself by less then 4$.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to output text file list of contents of a directory?</title>
+      <link>https://www.fahadahammed.com/how-to-output-text-file-list-of-contents-of-a-directory/</link>
+      <pubDate>Mon, 30 Sep 2013 18:05:44 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/how-to-output-text-file-list-of-contents-of-a-directory/</guid>
+      <description>&lt;p&gt;If you have a folder with huge contents and you want to get a list from them what will you do ? Write down one by one ? 😛&lt;/p&gt;
+&lt;p&gt;In Linux based distributions you can get a list by a simple command.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lighttpd Server with SSL</title>
+      <link>https://www.fahadahammed.com/lighttpd-server-with-ssl/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/lighttpd-server-with-ssl/</guid>
+      <description>&lt;p&gt;Lighttpd is one of the speediest webserver which will make you feel like you got a highspeed internet connection with low price. However , i will explain you how to create ssl certificate and use it in lighttpd vhost for accessing particular websites with particular certificate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adding swap with a File in Your VPS</title>
+      <link>https://www.fahadahammed.com/adding-swap-with-a-file-in-your-vps/</link>
+      <pubDate>Tue, 24 Sep 2013 03:24:45 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/adding-swap-with-a-file-in-your-vps/</guid>
+      <description>&lt;p&gt;If you don’t have any additional disks, you can create a file somewhere on your filesystem, and use that file for swap space. Normally some vps providers don’t give swap. For those who has that type of vps will need this tutorial to get a swap to faster website or vps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiple WordPress in Lighttpd &amp; Php5 in Ubuntu VPS or Server</title>
+      <link>https://www.fahadahammed.com/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/</guid>
+      <description>&lt;p&gt;Lighttpd = Security, speed, compliance, and flexibility.&lt;/p&gt;
+&lt;p&gt;It is pronounced as “Lighty”. Lighttpd is rapidly redefining efficiency of a webserver . It is Designed and optimized for high performance environments. With a small memory footprint compared to other webservers. 128mb ram can run it like a mig29 with several wordpress(I will try two today). It has advanced feature set like FastCGI, SCGI, Auth, Output-Compression,URL Rewriting and many more. It is perfect for every server and also for VPSs with low memory. You will be amazed by its speed with low ram and swap. It is totally free.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Change The Maximum Upload File Size in Php</title>
+      <link>https://www.fahadahammed.com/change-the-maximum-upload-file-size-in-php/</link>
+      <pubDate>Tue, 10 Sep 2013 02:42:57 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/change-the-maximum-upload-file-size-in-php/</guid>
+      <description>&lt;p&gt;This is annoying to get &lt;strong&gt;file exceeds the max size allowed&lt;/strong&gt; when you try for uploading files. How can you be able to upload bigger files without any caution or error ? We have to find &lt;strong&gt;php.ini&lt;/strong&gt; file from your system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bundle CSS to Load Page Faster</title>
+      <link>https://www.fahadahammed.com/bundle-css-to-load-page-faster/</link>
+      <pubDate>Fri, 24 May 2013 17:46:57 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/bundle-css-to-load-page-faster/</guid>
+      <description>&lt;p&gt;A test with a simple HTML page over a DSL connection shows that one big stylesheet or css of 50 KB can speed up load time by factor 2 compared to five stylesheets that are 10 KB each in size:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 Stylesheets (10KB each): 1100ms&lt;/li&gt;
+&lt;li&gt;1 Stylesheet (50KB): 500ms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So , How to make them one without breaking or editing them ? I am going to show you how to do this .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browser Caching with htaccess</title>
+      <link>https://www.fahadahammed.com/browser-caching-with-htaccess/</link>
+      <pubDate>Sat, 18 May 2013 01:20:01 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/browser-caching-with-htaccess/</guid>
+      <description>&lt;p&gt;Browser caching is a good idea to make/feel your site speedy . Your sites visitors will find it much speedier after first visit . If you test your page in pingdom and google speed analysis tool you will see a recommendation there to enable caching . That is why i am sharing this .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux File/Folder Search from Terminal</title>
+      <link>https://www.fahadahammed.com/linux-filefolder-search-from-terminal/</link>
+      <pubDate>Sun, 05 May 2013 05:16:18 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/linux-filefolder-search-from-terminal/</guid>
+      <description>&lt;p&gt;Sometimes we need to find file or folder . It is easy in graphical file manager . But in terminal you have to be tricky .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Caching with Varnish</title>
+      <link>https://www.fahadahammed.com/caching-with-varnish/</link>
+      <pubDate>Sat, 13 Apr 2013 15:52:23 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/caching-with-varnish/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Varnish&lt;/strong&gt; is an HTTP accelerator designed for content-heavy dynamic web sites. In contrast to other web accelerators, such as Squid, which began life as a client-side cache, or Apache and nginx, which are primarily origin servers, Varnish was designed as an HTTP accelerator. Varnish is focused exclusively on HTTP, unlike other proxy servers that often support FTP, SMTP and other network protocols.&lt;/p&gt;
+&lt;p&gt;Here , I will explain how to get varnish in front of apache2 or accelerate apache2 with varnish .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Htaccess to block ip</title>
+      <link>https://www.fahadahammed.com/htaccess-to-block-ip/</link>
+      <pubDate>Fri, 08 Feb 2013 11:01:06 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/htaccess-to-block-ip/</guid>
+      <description>&lt;p&gt;Websites are naturally geeks guinea pig . You will get much more spam if you get a website to comment or something . They just don’t stop . Try and try . You will find it very much annoying . You can pause them . Not stop but it will give you peace i think . Now open any text editor and&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/docker/</link>
+    <description>Recent content in docker on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2022 15:00:00 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore InfluxDB: Part 1</title>
+      <link>https://www.fahadahammed.com/explore-influxdb-part-1/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/explore-influxdb-part-1/</guid>
+      <description>&lt;p&gt;I have been trying to manage time to explore InfluxDB for observability. This article is one of many about InfluxDB and Telegraf. I will cover basic installation here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</title>
+      <link>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</guid>
+      <description>&lt;p&gt;Containerization gives us many benefits from packaging to distribution and others. Thus, Docker is widely used as a containerization tool which is designed for running specific tasks and processes, not for hosting operating systems or like other virtualization tools like VMWare, VirtualBox etc. You create a container to serve a single unit task. Once it completes the given task, it stops. The container life-cycle depends on the ongoing process inside of it. Once the process stops,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development Environment with Docker Compose</title>
+      <link>https://www.fahadahammed.com/development-environment-with-docker-compose/</link>
+      <pubDate>Sat, 28 Aug 2021 09:49:22 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/development-environment-with-docker-compose/</guid>
+      <description>&lt;p&gt;There are a lot of tools I need to work with. Installing some tools in my workstation and bloating the system is not an option with limited memory capacity, specially in MacBook Air M1 with 8GB of ram. So, I am using docker when using those tools. The day to day life depends on these DB tools –&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka in Docker Container and Implement it’s Functionalities with Python</title>
+      <link>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</link>
+      <pubDate>Thu, 01 Jul 2021 17:36:52 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/apache-kafka-in-docker-container-and-implement-its-functionalities-with-python/</guid>
+      <description>&lt;p&gt;According to the website, Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;In this post, I am going to share a basic way to start using Apache Kafka with python.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GetDockerized: An Initiative to Learn Docker as Deep as Possible, Once Again</title>
+      <link>https://www.fahadahammed.com/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</link>
+      <pubDate>Tue, 16 Mar 2021 17:23:28 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/getdockerized-an-initiative-to-learn-docker-as-deep-as-possible-once-again/</guid>
+      <description>Docker is one of the most wonderful tool for development scenario. It is very important now a days. I did have knowledge in this, but that seems scattered knowledge. Thus, I wanted to learn it as through as possible and share it here and in github with a repo name of GetDockerized: https://github.com/fahadahammed/GetDockerizedHope to learn a lot and will be able to focus properly.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi and Docker Registry</title>
+      <link>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</guid>
+      <description>&lt;p&gt;Recently I have been using a &lt;strong&gt;Raspberry Pi 3B+&lt;/strong&gt; bought from a classified advertisement site called &lt;!-- raw HTML omitted --&gt;Bikroy.com&lt;!-- raw HTML omitted --&gt;. A student wanted to sell this, as his final college project was done. It was cheaper with an acrylic casing and a fan. However, I wanted to use this Pi for several pet projects. Initially I did install &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pi-Hole&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; for network wide &lt;strong&gt;adblocker&lt;/strong&gt; and along with &lt;strong&gt;samba&lt;/strong&gt; with a spare portable hard disk. It was working OK. No extra pressure in this 1GB ram Pi. I thought Why not give it a little bit more pressure?&lt;/p&gt;
+&lt;p&gt;Thus, I planned to install docker registry in it for my &lt;strong&gt;“local private docker hub”&lt;/strong&gt; type of need. Let me share what I had to do.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

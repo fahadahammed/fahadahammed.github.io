@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Special+Elite&family=Twinkle+Star&display=swap');
+
+
+/* font-family: 'Inconsolata', monospace;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Special Elite', cursive;
+font-family: 'Twinkle Star', cursive; */
+
+
+h2.fw1.f5.f3-l.white-80.measure-wide-l.center.mt3 {
+    font-size: xx-large;
+    font-weight: normal;
+}
+
+h1.f2.f-subheadline-l.fw2.white-90.mb0.lh-title {
+    font-weight: normal;
+}
+
+ul.pagination.pagination-default {
+    text-align: center;
+    font-weight: bold;
+    -text-decoration: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Special Elite', cursive !important;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+a.ba.b--moon-gray.bg-light-gray.br2.color-inherit.dib.f7.hover-bg-moon-gray.link.mt2.ph2.pv1 {
+    font-weight: bolder;
+    font-size: medium;
+    background-color: beige;
+    color: cadetblue;
+}

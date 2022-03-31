@@ -1,0 +1,57 @@
+title = "Thoughts, Views & More..."
+baseURL = "https://www.fahadahammed.com"
+languageCode = "en-us"
+theme = "ananke"
+resourceDir = "../resources"
+description = "Thoughts, Views &amp; More...."
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+disqusShortname = "fahadahammed"
+
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Fahad Ahammed"
+  favicon = "/wp-content/uploads/2018/05/cropped-FahadAhammed-1.jpg"
+  site_logo = "/images/logo.png"
+  description = "Thoughts, Views & More..."
+  background_color_class = "bg-white"
+  recent_posts_number = 5
+  show_reading_time = true
+  custom_css = ["custom.css"]
+  body_classes = "ubuntu bg-near-white"
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/obakfahad"
+label = "Twitter - obakfahad"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/fahadahammed"
+label = "Github - fahadahammed"
+color = "#ff6800"
+
+[[params.ananke_socials]]
+name = "medium"
+url = "https://medium.com/@fahadahammed"
+label = "Medium - fahadahammed"
+color = "black"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/fahadahammed/"
+label = "LinkedIn - fahadahammed"
+
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What are the application or use of Fibonacci numbers or series? on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/what-are-the-application-or-use-of-fibonacci-numbers-or-series/</link>
+    <description>Recent content in What are the application or use of Fibonacci numbers or series? on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Aug 2014 05:52:15 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/what-are-the-application-or-use-of-fibonacci-numbers-or-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell Script to Generate Fibonacci Series Iteratively and Recursively</title>
+      <link>https://www.fahadahammed.com/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/</link>
+      <pubDate>Wed, 06 Aug 2014 05:52:15 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/shell-script-to-generate-fibonacci-series-iteratively-and-recursively/</guid>
+      <description>&lt;p&gt;By definition, the first two Fibonacci numbers are 0 and 1, and each subsequent number is the sum of the previous two. I will show you two shell script to generate Fibonacci series recursively and iteratively. Also you will get idea about the application of Fibonacci series/numbers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

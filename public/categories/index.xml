@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/categories/</link>
+    <description>Recent content in Categories on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 19:16:04 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://www.fahadahammed.com/categories/linux/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://www.fahadahammed.com/categories/monitoring/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://www.fahadahammed.com/categories/programming/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://www.fahadahammed.com/categories/technology/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.fahadahammed.com/categories/python/</link>
+      <pubDate>Sun, 06 Feb 2022 09:06:03 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://www.fahadahammed.com/categories/docker/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>https://www.fahadahammed.com/categories/study/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchase Decison</title>
+      <link>https://www.fahadahammed.com/categories/purchase-decison/</link>
+      <pubDate>Mon, 28 Dec 2020 14:26:13 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/purchase-decison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বাংলায় লিনাক্স</title>
+      <link>https://www.fahadahammed.com/categories/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8/</link>
+      <pubDate>Sun, 04 Feb 2018 09:18:01 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxy Server</title>
+      <link>https://www.fahadahammed.com/categories/proxy-server/</link>
+      <pubDate>Thu, 03 Apr 2014 02:56:16 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/categories/proxy-server/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

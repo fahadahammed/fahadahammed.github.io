@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lru_cache in fibonacci on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/lru_cache-in-fibonacci/</link>
+    <description>Recent content in lru_cache in fibonacci on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 17:44:23 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/lru_cache-in-fibonacci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Again Fibonacci Series and Python</title>
+      <link>https://www.fahadahammed.com/again-fibonacci-series-and-python/</link>
+      <pubDate>Wed, 13 Jan 2021 17:44:23 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/again-fibonacci-series-and-python/</guid>
+      <description>&lt;p&gt;I have already wrote a piece about generating Fibonacci series in &lt;strong&gt;BASH&lt;/strong&gt;, here in my blog. But today I am gonna do some practice stuff with &lt;strong&gt;Python&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We all I guess know about &lt;strong&gt;Fibonacci&lt;/strong&gt;. It is connected to nature through the golden ratio and the spirals. It is a very interesting series to learn or research deeply. However, I came to know that there is a day declared as “&lt;strong&gt;Fibonacci Day&lt;/strong&gt;” which is every 23rd, November. But why?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

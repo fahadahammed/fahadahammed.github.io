@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lighttpd on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/lighttpd/</link>
+    <description>Recent content in lighttpd on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 15:59:59 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/lighttpd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi and Docker Registry</title>
+      <link>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</link>
+      <pubDate>Fri, 15 Jan 2021 15:59:59 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/raspberry-pi-and-docker-registry/</guid>
+      <description>&lt;p&gt;Recently I have been using a &lt;strong&gt;Raspberry Pi 3B+&lt;/strong&gt; bought from a classified advertisement site called &lt;!-- raw HTML omitted --&gt;Bikroy.com&lt;!-- raw HTML omitted --&gt;. A student wanted to sell this, as his final college project was done. It was cheaper with an acrylic casing and a fan. However, I wanted to use this Pi for several pet projects. Initially I did install &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pi-Hole&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; for network wide &lt;strong&gt;adblocker&lt;/strong&gt; and along with &lt;strong&gt;samba&lt;/strong&gt; with a spare portable hard disk. It was working OK. No extra pressure in this 1GB ram Pi. I thought Why not give it a little bit more pressure?&lt;/p&gt;
+&lt;p&gt;Thus, I planned to install docker registry in it for my &lt;strong&gt;“local private docker hub”&lt;/strong&gt; type of need. Let me share what I had to do.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lighttpd Server with SSL</title>
+      <link>https://www.fahadahammed.com/lighttpd-server-with-ssl/</link>
+      <pubDate>Sun, 29 Sep 2013 05:21:17 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/lighttpd-server-with-ssl/</guid>
+      <description>&lt;p&gt;Lighttpd is one of the speediest webserver which will make you feel like you got a highspeed internet connection with low price. However , i will explain you how to create ssl certificate and use it in lighttpd vhost for accessing particular websites with particular certificate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiple WordPress in Lighttpd &amp; Php5 in Ubuntu VPS or Server</title>
+      <link>https://www.fahadahammed.com/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/</link>
+      <pubDate>Wed, 18 Sep 2013 00:58:15 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/multiple-wordpress-in-lighttpd-php5-in-ubuntu-vps-or-server/</guid>
+      <description>&lt;p&gt;Lighttpd = Security, speed, compliance, and flexibility.&lt;/p&gt;
+&lt;p&gt;It is pronounced as “Lighty”. Lighttpd is rapidly redefining efficiency of a webserver . It is Designed and optimized for high performance environments. With a small memory footprint compared to other webservers. 128mb ram can run it like a mig29 with several wordpress(I will try two today). It has advanced feature set like FastCGI, SCGI, Auth, Output-Compression,URL Rewriting and many more. It is perfect for every server and also for VPSs with low memory. You will be amazed by its speed with low ram and swap. It is totally free.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

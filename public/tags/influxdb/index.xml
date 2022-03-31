@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>influxdb on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/influxdb/</link>
+    <description>Recent content in influxdb on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 19:16:04 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/influxdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RaspberryPi with DHT22 Sensor for Humidity and Temperature Data with InfluxDB</title>
+      <link>https://www.fahadahammed.com/raspberrypi-with-dht22-sensor-for-humidity-and-temperature-data-with-influxdb/</link>
+      <pubDate>Mon, 28 Feb 2022 19:16:04 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/raspberrypi-with-dht22-sensor-for-humidity-and-temperature-data-with-influxdb/</guid>
+      <description>&lt;p&gt;I have been playing with RaspberryPI for a while. There are several project I tried to do with RaspberryPI. These boards play a significant role in my home lab for different experiments like Docker Private Repository, Media Server, Ad Blocker with pi-hole, Secure Proxy for anonymity, secure network access with VPN, Home Security Camera/Surveillance, Data Collector or scraper etc. But This time, I did buy a “DHT-22” sensor for monitoring room temperature and humidity. Humidity is my main concern and wanted to see how it fluctuates.&lt;/p&gt;
+&lt;p&gt;So, my main plan was to get a DHT-22 to connect properly&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explore InfluxDB: Part 1</title>
+      <link>https://www.fahadahammed.com/explore-influxdb-part-1/</link>
+      <pubDate>Tue, 01 Feb 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/explore-influxdb-part-1/</guid>
+      <description>&lt;p&gt;I have been trying to manage time to explore InfluxDB for observability. This article is one of many about InfluxDB and Telegraf. I will cover basic installation here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

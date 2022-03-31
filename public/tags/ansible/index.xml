@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ansible on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/ansible/</link>
+    <description>Recent content in ansible on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Feb 2022 14:49:16 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible to change user password</title>
+      <link>https://www.fahadahammed.com/ansible-to-change-user-password/</link>
+      <pubDate>Wed, 09 Feb 2022 14:49:16 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ansible-to-change-user-password/</guid>
+      <description>&lt;p&gt;One of the most basic things to do in a Linux Server. We can use just &lt;code&gt;passwd &amp;lt;user&amp;gt;&lt;/code&gt; to change the password of a user. But to do that in 100s of server can be a tricky one. Ansible is the savior on that perspective.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SSH Config and Ansible Host Generator and Why I am doing it this way?</title>
+      <link>https://www.fahadahammed.com/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</link>
+      <pubDate>Wed, 26 Jan 2022 14:50:35 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/ssh-config-and-ansible-host-generator-and-why-i-am-doing-it-this-way/</guid>
+      <description>&lt;p&gt;I am recently playing the role as an SRE and that is why I have to deal with a lot of servers. Not only cloud once or clusters but also bare metals as well as Virtual Machines. For more systematic environment preparation, I have Gitlab pipeline. But for basic tasks like change the config on demand or check a specific directory or search something or any other unpredictable or repeated tasks, I need Ansible for better grasp from my local machine or Bastion server. So, what do I have to do?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an entry to the .ssh/config file&lt;/li&gt;
+&lt;li&gt;Create an entry ansible host file as inventory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Repeated tasks? For me, yes. I needed to manage these. So, created a python script&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

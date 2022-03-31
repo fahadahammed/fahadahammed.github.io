@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dockerfile on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/dockerfile/</link>
+    <description>Recent content in dockerfile on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 08:54:10 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/dockerfile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Understanding about RUN, CMD and ENTRYPOINT in Dockerfile</title>
+      <link>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:10 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/my-understanding-about-run-cmd-and-entrypoint-in-dockerfile/</guid>
+      <description>&lt;p&gt;Containerization gives us many benefits from packaging to distribution and others. Thus, Docker is widely used as a containerization tool which is designed for running specific tasks and processes, not for hosting operating systems or like other virtualization tools like VMWare, VirtualBox etc. You create a container to serve a single unit task. Once it completes the given task, it stops. The container life-cycle depends on the ongoing process inside of it. Once the process stops,&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

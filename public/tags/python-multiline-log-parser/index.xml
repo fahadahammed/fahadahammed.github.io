@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python multiline log parser on Thoughts, Views &amp; More...</title>
+    <link>https://www.fahadahammed.com/tags/python-multiline-log-parser/</link>
+    <description>Recent content in python multiline log parser on Thoughts, Views &amp; More...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 15:59:19 +0000</lastBuildDate><atom:link href="https://www.fahadahammed.com/tags/python-multiline-log-parser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi line Log Parser in Python</title>
+      <link>https://www.fahadahammed.com/multi-line-log-parser-in-python/</link>
+      <pubDate>Tue, 12 Jan 2021 15:59:19 +0000</pubDate>
+      
+      <guid>https://www.fahadahammed.com/multi-line-log-parser-in-python/</guid>
+      <description>&lt;p&gt;So, I have a log file that is not single line log. It is kind of java stack trace. What I needed to do is read those log files and create some actions depending on them. I could use already built tools. But I thought why not just do this as simply as printing strings.&lt;/p&gt;
+&lt;p&gt;This is an example of the log format I wanted to play with. It seems too simple to pile up the Filebeats or elastic stack.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
